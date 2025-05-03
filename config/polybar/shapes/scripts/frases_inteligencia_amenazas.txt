@@ -1,0 +1,147 @@
+El análisis de flujos NetFlow permite detectar anomalías en patrones de tráfico sospechoso
+YARA con reglas avanzadas detecta payloads en memoria evitando técnicas anti-forense
+El fingerprinting TLS identifica actores maliciosos por sus parámetros de handshake únicos
+El uso de ML en SIEM optimiza detección de ataques basados en análisis de comportamiento
+Los IoCs generados a partir de CTI deben correlacionarse con TTPs de MITRE ATT&CK
+El malware sin archivos usa WMI y PowerShell para persistencia sin tocar el disco
+DGA detectado mediante análisis de entropía en registros DNS de tráfico saliente
+APT modernos emplean C2 over DNS tunneling para evadir detección de tráfico sospechoso
+La heurística basada en sandboxing dinámico permite análisis de comportamiento evasivo
+La exfiltración basada en Covert Channel en HTTP es difícil de detectar sin TLS inspection
+El análisis de BinDiff en binarios de malware revela variantes y evolución de amenazas
+El uso de Honeytokens permite detectar accesos no autorizados en entornos sensibles
+Los TTPs de APT deben ser mapeados en ATT&CK para predecir tácticas de intrusión
+El ataque Living off the Land abusa binarios legítimos como MSBuild para ejecución maliciosa
+Los marcadores de código permiten atribución forense en casos de ataques de estados nación
+El uso de AutoML en detección de anomalías mejora la predicción de ataques emergentes
+Cuckoo sandbox permite analizar cargas útiles sin archivos a través de inyección en memoria
+La obfuscación de payloads con XOR encoding evade análisis estático en motores AV
+El fingerprinting de infraestructura maliciosa se apoya en TLS JA3 y análisis de ASN
+El abuso de Signed Binary Proxy Execution evade restricciones de ejecución en endpoints
+La correlación entre flujos Sysmon y registros SIEM ayuda a reconstrucción de killchains
+Red Teaming avanzado usa Cobalt Strike con técnicas de malleable C2 para persistencia
+Los metadatos en logs de Sysmon facilitan identificación de persistencia en Registry RunKeys
+IoCs en STIX permiten automatización en plataformas de Threat Intelligence compartida
+Técnicas de thread injection como APC Queue permiten inyección encubierta en procesos
+La inspección de DNS over HTTPS requiere técnicas de TLS fingerprinting para detección
+Los ataques de Reflective DLL Injection permiten ejecución en memoria sin tocar el disco
+El uso de OPCODE level analysis detecta polimorfismo en cargas útiles evasivas
+Threat Hunting proactivo en endpoints analiza ejecución de procesos con anomalías estadísticas
+Cadenas de ejecución en ataques multi-stage pueden ser detectadas con técnicas de behavioral ML
+El ataque Golden SAML permite persistencia en entornos federados mediante SAML assertion forgery
+La telemetría de proxy logs ayuda a detectar beaconing de malware en tráfico corporativo
+El análisis de entropía en PE headers permite detección de empaquetado de malware avanzado
+Las estrategias de Fast Flux emplean rotación de IPs para ocultar C2 en botnets avanzadas
+El uso de Named Pipe Impersonation facilita escalada de privilegios en sistemas Windows
+La heurística de DNS passive analysis detecta dominios maliciosos basados en registros históricos
+El abuso de MSHTA y scripts HTA facilita ejecución de payloads en entornos sin macros
+El análisis de machine learning en DGA genera modelos de clasificación de tráfico DNS sospechoso
+El uso de Sysmon Event ID 22 ayuda a detectar inyecciones de código en procesos en ejecución
+El fingerprinting de Azure AD permite identificar patrones anómalos en accesos a recursos cloud
+El abuso de WMI Event Subscription facilita persistencia sin necesidad de archivos en disco
+El análisis de flujos de datos mediante Zeek permite detección de lateral movement en redes
+Las reglas Sigma permiten traducción entre detecciones en múltiples motores de SIEM
+El ataque Pass-the-Ticket explota credenciales Kerberos robadas para moverse lateralmente
+El uso de CloudTrail en AWS permite detectar actividades sospechosas en entornos serverless
+La técnica DLL Sideloading abusa binarios legítimos para ejecución de malware encubierto
+La identificación de claves de registro sospechosas permite detectar persistencia en Windows
+Threat Intelligence basada en Graph Analytics modela relaciones entre indicadores de ataque
+El abuso de WinRM en redes corporativas facilita movimientos laterales sin necesidad de RDP
+La técnica Process Hollowing permite ejecución encubierta inyectando payloads en procesos legítimos
+El análisis de cadenas de User-Agent sospechosas ayuda a detectar tráfico malicioso en entornos web
+El abuso de AMSI Bypass evade la detección de código malicioso en entornos PowerShell restringidos
+El uso de Packet Capture Analysis con Zeek permite detectar tráfico C2 basado en patrones de beaconing
+El fingerprinting de paquetes QUIC ayuda a identificar servidores C2 evasivos en redes empresariales
+Los ataques de Kerberoasting permiten robo de credenciales en entornos Active Directory expuestos
+El análisis de logs de NTFS USN Journal detecta actividades sospechosas en entornos forenses
+El abuso de AppLocker Bypass permite ejecución de payloads sin restricciones en entornos corporativos
+La técnica C2 over ICMP permite canalizar tráfico malicioso sin ser detectado en firewalls perimetrales
+El uso de CertUtil para descarga y ejecución de payloads evade mecanismos de seguridad convencionales
+Los ataques Pass-the-Hash permiten acceso no autorizado mediante credenciales NTLM comprometidas
+La explotación de Windows Event Forwarding permite exfiltración de logs sin activar alertas SIEM
+El análisis de Parent-Child Process Relationships permite detectar ejecución sospechosa en endpoints
+La detección de anomalías en Remote Desktop Logs ayuda a identificar accesos no autorizados
+La persistencia basada en LNK Files Dropper permite ejecución maliciosa con solo abrir un acceso directo
+El análisis de traffic patterns en Tor Exit Nodes permite correlacionar tráfico con ataques persistentes
+El uso de Hardware Fingerprinting permite identificar dispositivos en ataques dirigidos persistentes
+La evasión de AV mediante Process Doppelgänging permite ejecución sin activar detección heurística
+El abuso de ADS (Alternate Data Streams) permite ocultar payloads dentro de archivos NTFS legítimos
+La explotación de token impersonation permite escalar privilegios en sistemas Windows sin detección
+El análisis de Graph-based Threat Intelligence modela relaciones entre IoCs en ataques avanzados
+El uso de WMI Callbacks facilita persistencia en entornos Windows sin tocar archivos en disco
+El ataque SMBGhost permite ejecución remota de código explotando vulnerabilidades en SMBv3
+La detección de anomalías en flujo de autenticación OAUTH permite identificar accesos comprometidos
+El uso de Memory Scraping en POS Terminals permite robo de datos de tarjetas sin tocar el disco
+El análisis de Packet Timing Anomalies en VoIP permite detectar exfiltración encubierta de datos
+La explotación de AWS Lambda Environment Variables permite acceso a credenciales en entornos cloud
+El abuso de BITSAdmin para descarga de payloads permite persistencia sin activar alertas SIEM
+El análisis de Sysmon Event ID 10 ayuda a detectar acceso sospechoso a objetos en el sistema
+El fingerprinting de certificados TLS en ataques APT permite correlacionar infraestructura C2
+El abuso de Named Pipe Pivoting permite movimiento lateral en redes sin activar detección IDS
+El análisis de DLL Import Hash permite identificar variantes de malware basado en reutilización de código
+El uso de API Hooking en procesos críticos permite manipulación encubierta de ejecución en Windows
+La técnica DCOM Lateral Movement permite ejecución remota de payloads en redes corporativas
+El abuso de TCC Bypass en macOS permite acceso a datos sensibles sin necesidad de privilegios root
+El análisis de BAM/DAM registry entries en Windows 10 permite detectar ejecución de payloads persistentes
+La técnica Heap Spraying permite explotación de vulnerabilidades en navegadores sin detección heurística
+El uso de Polyglot Files permite ocultar malware combinando formatos de archivo para evasión AV
+La explotación de Google Cloud Metadata API permite persistencia en entornos GCP comprometidos
+El abuso de ETW (Event Tracing for Windows) permite inyección encubierta de código en procesos críticos
+El análisis de WebSocket-based C2 permite detectar tráfico malicioso en ataques de exfiltración avanzada
+La técnica Fast Flux DNS permite ocultar infraestructura maliciosa mediante cambios rápidos de IP
+El fingerprinting de anomalías en JSON Web Tokens ayuda a detectar manipulación en autenticaciones SSO
+El abuso de RunOnce Registry Key permite persistencia en sistemas Windows sin tocar archivos en disco
+El análisis de Process Hollowing con Volatility permite detección de malware residente en memoria
+El uso de CAN Bus Fingerprinting permite detección de intrusos en entornos de vehículos conectados
+La evasión de detección con API Unhooking permite ocultar ejecución maliciosa de análisis AV dinámico
+El análisis de ejecución de procesos con Parent PID Spoofing ayuda a detectar malware evasivo
+El abuso de Font Parsing Vulnerabilities permite ejecución remota de código en entornos Windows
+El análisis de Network Flow Anomalies permite detectar tráfico malicioso en ataques persistentes
+El uso de Domain Fronting permite ocultar tráfico C2 mediante servicios legítimos como CDN
+La evasión de detección con Hooking Overwrite permite manipular API calls sin activar alertas
+El abuso de Direct System Calls evita detección de AV y EDR en payloads de ejecución remota
+El uso de Process Injection vía AtomBombing permite ejecución maliciosa sin modificar memoria RWX
+El análisis de JWT Anomalies detecta intentos de autenticación maliciosos en entornos SSO
+El abuso de COM Hijacking permite persistencia en Windows alterando claves de registro CLSID
+La detección de Covert Channels en HTTP ayuda a identificar exfiltración encubierta de datos
+El fingerprinting de WebGL permite identificar actores maliciosos en ataques de tracking persistente
+El uso de Living Off Trusted Sites permite distribución de malware mediante servicios en la nube
+La explotación de OAuth Token Hijacking permite acceso no autorizado a cuentas corporativas
+El análisis de patrones de User-Agent en tráfico HTTP permite correlación con amenazas persistentes
+El abuso de Event Tracing for Windows (ETW) permite ocultar inyección de código en procesos críticos
+El análisis de Windows Shim Database (SDB) detecta técnicas avanzadas de persistencia en endpoints
+El uso de Reverse TCP Shell sobre WebSockets permite comunicación encubierta con servidores C2
+La técnica Signed Kernel Driver Loading permite ejecución con privilegios sin activar detección EDR
+El abuso de DNS over HTTPS (DoH) facilita evasión de detección en ataques de exfiltración de datos
+El análisis de GraphQL Injection permite detectar explotación de API en aplicaciones modernas
+El fingerprinting de Cloud API Key Usage detecta abuso de credenciales en entornos multi-cloud
+El abuso de Trusted Publisher Policy Bypass permite ejecución de código sin alertar controles AppLocker
+El análisis de Execution Guardrails en payloads ayuda a detectar ataques con lógica condicional avanzada
+La explotación de Apple TCC Database permite acceso no autorizado a datos sensibles en macOS
+El uso de Kernel Callback Manipulation permite ejecución en modo kernel sin activar detección
+El abuso de Windows Filtering Platform (WFP) permite manipulación de tráfico sin activar firewalls
+El análisis de Code Cave Injection permite detectar ocultamiento de payloads en secciones de binarios PE
+El abuso de Google OAuth Consent Manipulation facilita robo de credenciales en ataques de phishing
+El fingerprinting de HTTP/2 Frames permite detectar patrones de tráfico malicioso en servidores C2
+El uso de Malicious Azure AD Conditional Access Bypass permite acceso no autorizado a entornos cloud
+El abuso de OOB Data Channels en Bluetooth permite exfiltración encubierta en dispositivos IoT
+El análisis de Sysmon Event ID 3 ayuda a identificar ejecución sospechosa de scripts maliciosos
+La explotación de CVE-2023-23397 en Outlook permite escalada de privilegios sin interacción del usuario
+El fingerprinting de Encrypted SNI (ESNI) permite detectar tráfico anómalo en redes empresariales
+El abuso de Microsoft Graph API Token Leakage permite exfiltración de datos en entornos corporativos
+El análisis de Hash Collision Techniques detecta intentos de evasión en motores de detección de malware
+El abuso de Kubernetes RBAC Misconfiguration permite escalada de privilegios en entornos cloud
+El análisis de TLS Fingerprinting con JA4 permite identificar conexiones maliciosas en ataques APT
+El uso de NTLM Relay Attacks permite movimiento lateral sin necesidad de crackear credenciales
+El abuso de Remote Thread Execution en LSASS permite recolección de credenciales sin activar detección
+El análisis de Telemetry-Based Anomalies en logs de endpoints ayuda a detectar persistencia oculta
+La técnica Signed Executable DLL Hijacking permite ejecución encubierta en binarios de confianza
+El abuso de Azure Managed Identity Token Theft permite acceso persistente en entornos multi-cloud
+El análisis de Bytecode-Level Obfuscation detecta malware en payloads polimórficos avanzados
+El fingerprinting de WebRTC STUN/TURN permite correlación de actividad maliciosa en entornos online
+El uso de BGP Hijacking facilita ataques MITM a gran escala en infraestructuras críticas
+El abuso de Trusted Certificate Abuse permite interceptación de tráfico cifrado en ataques persistentes
+El análisis de SAML Assertion Injection permite acceso no autorizado a aplicaciones federadas
+El uso de Machine Learning para Anomaly Detection en DNS Traffic ayuda a identificar amenazas emergentes
+El fingerprinting de SaaS Token Reuse detecta abuso de credenciales en entornos empresariales
+

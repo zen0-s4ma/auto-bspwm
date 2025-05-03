@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+clear#!/usr/bin/env bash
 
 # Color files
 PFILE="$HOME/.config/polybar/shapes/colors.ini"

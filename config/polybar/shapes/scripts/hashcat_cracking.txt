@@ -1,0 +1,105 @@
+hashcat -m 2500 captura.hccapx diccionario.txt: Crackea WPA2 con diccionario.
+hashcat -m 22000 captura.22000 diccionario.txt: Utiliza nuevo formato hash WPA2.
+hcxpcapngtool -o captura.hccapx captura.cap: Convierte .cap para Hashcat.
+hashcat -m 2500 -a 3 captura.hccapx ?d?d?d?d?d?d: Crackea por fuerza bruta.
+hashcat -m 2500 captura.hccapx --show: Verifica la clave descifrada.
+hashcat --status --session mysession captura.hccapx: Gestiona sesiones cracking.
+hashcat -m 2500 captura.hccapx --force: Ignora errores de compatibilidad.
+hashcat -m 2500 -w 3 captura.hccapx diccionario.txt: Aumenta prioridad GPU.
+hashcat -a 1 -m 2500 captura.hccapx diccionario1.txt diccionario2.txt: Combina entradas.
+hashcat -m 2500 captura.hccapx --potfile-disable: Evita almacenar resultados.
+hashcat -m 2500 -r reglas.rule captura.hccapx diccionario.txt: Usa reglas personalizadas.
+hashcat --benchmark -m 2500: Evalúa el rendimiento de tu hardware para WPA2.
+hashcat -m 2500 captura.hccapx -o resultado.txt: Guarda claves descifradas.
+hashcat -a 3 -m 2500 captura.hccapx ?u?l?l?d?d?d: Prueba con patrones personalizados.
+hashcat -m 22000 captura.22000 --identify: Valida formato de hashes WPA2.
+hashcat --stdout diccionario.txt -r reglas.rule: Genera combinaciones en tiempo real.
+hcxhashcattool -i captura.hccapx --nonce-error-corrections=8: Ajusta errores de nonce.
+hashcat -m 2500 -D 1 captura.hccapx diccionario.txt: Usa solo CPU para cracking.
+hashcat --show --username captura.hccapx: Muestra claves con nombres de usuarios.
+hashcat -m 2500 captura.hccapx -a 6 diccionario.txt ?d?d: Ataques híbridos.
+hashcat -a 7 -m 2500 captura.hccapx ?d?d diccionario.txt: Aplica ataques inversos.
+hashcat -m 2500 captura.hccapx --restore: Restaura sesión interrumpida.
+hashcat -m 2500 captura.hccapx --skip 1000 --limit 5000: Define rango de claves.
+hashcat -m 2500 captura.hccapx -S: Usa claves pequeñas para ataques rápidos.
+hashcat -m 2500 captura.hccapx --increment: Prueba longitudes crecientes de claves.
+hashcat -m 2500 captura.hccapx --debug-mode=1 -r reglas.rule: Depura combinaciones.
+hashcat -m 2500 -O captura.hccapx diccionario.txt: Optimiza rendimiento en GPUs.
+hashcat -m 2500 -a 3 captura.hccapx ?d?d?d?d?d?d?d: Prueba números de 7 dígitos.
+hashcat -m 2500 captura.hccapx -a 6 diccionario.txt ?a?a: Ataque de diccionario extendido.
+hashcat -m 2500 -a 3 captura.hccapx ?d?d?d?d?u?l?l: Fuerza bruta con patrones mixtos.
+hashcat -m 2500 captura.hccapx --speed-only: Muestra solo velocidad de cracking.
+hashcat -m 2500 captura.hccapx --outfile-format=3: Guarda resultados con formato limpio.
+hashcat -m 2500 captura.hccapx -w 4: Maximiza uso de hardware disponible.
+hashcat --backend-info: Muestra detalles de GPUs compatibles para cracking.
+hashcat -m 2500 captura.hccapx --wordlist-autohex-disable: Desactiva codificación hexadecimal.
+hashcat --status -m 2500 captura.hccapx: Monitoriza estado del ataque WPA2.
+hashcat -m 2500 captura.hccapx -r reglas.rule -w 3: Combina reglas y rendimiento.
+hashcat -m 2500 captura.hccapx --skip 50000: Salta claves iniciales al cracking.
+hashcat -m 2500 captura.hccapx --potfile-path=personal.pot: Cambia archivo de resultados.
+hashcat -m 2500 captura.hccapx --restore-disable: Desactiva restauración de sesiones.
+hashcat -m 2500 captura.hccapx --session=newsession: Inicia sesión personalizada.
+hashcat -m 2500 captura.hccapx -a 1 diccionario1.txt diccionario2.txt: Ataques combinados.
+hashcat -m 2500 captura.hccapx --truecrypt-keyfiles keyfile.txt: Usa archivo como clave.
+hashcat -m 2500 captura.hccapx --runtime=60: Limita tiempo de cracking a 60 segundos.
+hashcat -m 2500 captura.hccapx -w 2 --slow-candidates: Optimiza claves lentas.
+hashcat -m 2500 captura.hccapx --quiet: Ejecuta sin mostrar información en pantalla.
+hashcat --keyspace -m 2500 captura.hccapx: Calcula número total de combinaciones.
+hashcat -m 2500 captura.hccapx --machine-readable: Formato JSON para scripts.
+hashcat -m 2500 captura.hccapx --gpu-temp-abort=90: Aborta si GPU supera 90°C.
+hashcat -m 2500 captura.hccapx --debug-file=debug.log: Guarda logs de depuración.
+hashcat -m 2500 captura.hccapx --restore-timer=10: Guarda progreso cada 10 minutos.
+hashcat -m 2500 captura.hccapx --skip-cracked: Evita claves ya descifradas.
+hashcat -m 2500 captura.hccapx --session=mycustomsession: Sesión con nombre definido.
+hashcat -m 2500 captura.hccapx --optimized-kernel-enable: Usa kernels optimizados.
+hashcat -m 2500 captura.hccapx -r default.rule: Usa reglas predeterminadas de Hashcat.
+hashcat -m 2500 captura.hccapx --loopback: Reutiliza resultados como entradas nuevas.
+hashcat -m 2500 captura.hccapx --benchmark-all: Testea todos los algoritmos soportados.
+hashcat -m 2500 captura.hccapx --stdout: Muestra resultados directamente sin cracking.
+hashcat -m 2500 captura.hccapx --outfile-check-dir=output/: Valida claves descifradas.
+hashcat -m 2500 captura.hccapx --cpu-affinity=0,1: Limita uso de CPUs específicas.
+hashcat -m 2500 captura.hccapx -a 3 ?d?d?d: Ataque fuerza bruta de 3 dígitos.
+hashcat -m 2500 captura.hccapx -a 6 ?a?a diccionario.txt: Diccionario con combinaciones extras.
+hashcat -m 22000 captura.22000 diccionario.txt: Utiliza nuevo formato hash WP
+hashcat --status --session mysession captura.hccapx: Gestiona sesiones cracki
+hashcat -a 1 -m 2500 captura.hccapx diccionario1.txt diccionario2.txt: Combin
+hashcat -m 2500 -r reglas.rule captura.hccapx diccionario.txt: Usa reglas per
+hashcat -a 3 -m 2500 captura.hccapx ?u?l?l?d?d?d: Prueba con patrones persona
+hashcat --stdout diccionario.txt -r reglas.rule: Genera combinaciones en tiem
+hcxhashcattool -i captura.hccapx --nonce-error-corrections=8: Ajusta errores 
+hashcat -m 2500 -D 1 captura.hccapx diccionario.txt: Usa solo CPU para cracki
+hashcat --show --username captura.hccapx: Muestra claves con nombres de usuar
+hashcat -a 7 -m 2500 captura.hccapx ?d?d diccionario.txt: Aplica ataques inve
+hashcat -m 2500 captura.hccapx --skip 1000 --limit 5000: Define rango de clav
+hashcat -m 2500 captura.hccapx --increment: Prueba longitudes crecientes de c
+hashcat -m 2500 captura.hccapx --debug-mode=1 -r reglas.rule: Depura combinac
+hashcat -m 2500 -O captura.hccapx diccionario.txt: Optimiza rendimiento en GP
+hashcat -m 2500 -a 3 captura.hccapx ?d?d?d?d?d?d?d: Prueba números de 7 dígit
+hashcat -m 2500 captura.hccapx -a 6 diccionario.txt ?a?a: Ataque de diccionar
+hashcat -m 2500 -a 3 captura.hccapx ?d?d?d?d?u?l?l: Fuerza bruta con patrones
+hashcat -m 2500 captura.hccapx --speed-only: Muestra solo velocidad de cracki
+hashcat -m 2500 captura.hccapx --outfile-format=3: Guarda resultados con form
+hashcat -m 2500 captura.hccapx --wordlist-autohex-disable: Desactiva codifica
+hashcat -m 2500 captura.hccapx -r reglas.rule -w 3: Combina reglas y rendimie
+hashcat -m 2500 captura.hccapx --skip 50000: Salta claves iniciales al cracki
+hashcat -m 2500 captura.hccapx --potfile-path=personal.pot: Cambia archivo de
+hashcat -m 2500 captura.hccapx --restore-disable: Desactiva restauración de s
+hashcat -m 2500 captura.hccapx --session=newsession: Inicia sesión personaliz
+hashcat -m 2500 captura.hccapx -a 1 diccionario1.txt diccionario2.txt: Ataque
+hashcat -m 2500 captura.hccapx --truecrypt-keyfiles keyfile.txt: Usa archivo 
+hashcat -m 2500 captura.hccapx --runtime=60: Limita tiempo de cracking a 60 s
+hashcat -m 2500 captura.hccapx -w 2 --slow-candidates: Optimiza claves lentas
+hashcat -m 2500 captura.hccapx --quiet: Ejecuta sin mostrar información en pa
+hashcat --keyspace -m 2500 captura.hccapx: Calcula número total de combinacio
+hashcat -m 2500 captura.hccapx --gpu-temp-abort=90: Aborta si GPU supera 90°C
+hashcat -m 2500 captura.hccapx --debug-file=debug.log: Guarda logs de depurac
+hashcat -m 2500 captura.hccapx --restore-timer=10: Guarda progreso cada 10 mi
+hashcat -m 2500 captura.hccapx --session=mycustomsession: Sesión con nombre d
+hashcat -m 2500 captura.hccapx --optimized-kernel-enable: Usa kernels optimiz
+hashcat -m 2500 captura.hccapx -r default.rule: Usa reglas predeterminadas de
+hashcat -m 2500 captura.hccapx --loopback: Reutiliza resultados como entradas
+hashcat -m 2500 captura.hccapx --benchmark-all: Testea todos los algoritmos s
+hashcat -m 2500 captura.hccapx --stdout: Muestra resultados directamente sin 
+hashcat -m 2500 captura.hccapx --outfile-check-dir=output/: Valida claves des
+hashcat -m 2500 captura.hccapx --cpu-affinity=0,1: Limita uso de CPUs específ
+hashcat -m 2500 captura.hccapx -a 6 ?a?a diccionario.txt: Diccionario con com

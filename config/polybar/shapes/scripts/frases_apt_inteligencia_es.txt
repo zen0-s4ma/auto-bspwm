@@ -1,0 +1,378 @@
+APT: "APT28" realizó campañas de phishing con exploits de día cero
+APT: "APT29" utilizó malware "WellMess" en ataques a organizaciones
+APT: "Lazarus Group" atacó bancos con malware "SWIFT Heist"
+APT: "APT41" comprometió servidores mediante vulnerabilidades VPN
+APT: "Sandworm" usó el malware "Industroyer" para atacar redes eléctricas
+APT: "Cobalt Strike" fue utilizado por "FIN7" en múltiples APTs financieras
+APT: "Equation Group" diseñó herramientas de intrusión como "Stuxnet"
+APT: "Dragonfly" realizó ataques a infraestructuras energéticas críticas
+APT: "Turla" utilizó técnicas de "watering hole" en sitios legítimos
+APT: "Ocean Lotus" ejecutó spyware para espionaje político
+APT: "DarkHotel" apuntó a ejecutivos mediante redes Wi-Fi en hoteles
+APT: "APT33" atacó empresas petroleras con malware "Shamoon"
+APT: "ScarCruft" empleó exploits móviles para espionaje asiático
+APT: "APT10" realizó ataques "Cloud Hopper" a empresas de tecnología
+APT: "APT32" comprometió sitios públicos con técnicas de JavaScript malicioso
+APT: "Silent Chollima" atacó criptomonedas con sofisticados spear phishing
+APT: "APT12" usó backdoors como "Shotput" en ataques a gobiernos
+APT: "APT39" enfocó ataques en telecomunicaciones en Medio Oriente
+APT: "APT17" infiltró redes con payloads en documentos de Office
+APT: "APT-C-35" utilizó "Android spyware" para espiar dispositivos móviles
+APT: "Sidewinder" empleó payloads PowerShell en ataques a entidades militares
+APT: "Gamaredon" usó macros Excel para esparcir herramientas de vigilancia
+APT: "APT38" robó millones con operaciones dirigidas contra bancos
+APT: "Patchwork" explotó apps móviles para espionaje gubernamental
+APT: "Shadow Brokers" filtró exploits de "NSA" como "EternalBlue"
+APT: "Wizard Spider" usó "TrickBot" y "Ryuk" en ataques globales
+APT: "Evil Corp" desplegó "Dridex" para robar información bancaria
+APT: "Fancy Bear" hackeó al Comité Nacional Demócrata en 2016
+APT: "GhostNet" espió a embajadas con redes de botnets
+APT: "Hafnium" explotó vulnerabilidades de "Microsoft Exchange"
+APT: "Charming Kitten" se enfocó en ataques a activistas de derechos humanos
+APT: "NOBELIUM" comprometió a "SolarWinds" en 2020
+APT: "APT1" filtró propiedad intelectual de empresas de defensa
+APT: "APT-C-23" realizó espionaje en territorios ocupados
+APT: "Night Dragon" atacó petroleras con herramientas customizadas
+APT: "APT-Duck" diseñó bots de vigilancia mediante Telegram
+APT: "Zebrocy" desplegó malware en campañas contra Europa del Este
+APT: "APT5" hackeó redes militares con ingeniería inversa avanzada
+APT: "Cicada" comprometió infraestructuras globales con puertas traseras
+APT: "Machete" realizó ataques de vigilancia en Latinoamérica
+APT: "Sowbug" usó herramientas RAT personalizadas para espionaje político
+APT: "Kimsuky" atacó periodistas con phishing altamente dirigido
+APT: "Cleaver" vulneró redes críticas de transporte y energía
+APT: "APT42" se centró en la vigilancia de disidentes iraníes
+APT: "Naikon" empleó técnicas de ingeniería social avanzadas
+APT: "APT37" usó exploits PDF para comprometer gobiernos asiáticos
+APT: "Cobalt Group" comprometió cajeros automáticos mediante malware
+APT: "PLATINUM" desarrolló rootkits a medida para persistencia
+APT: "Venomous Bear" enfocó ataques en sectores financieros europeos
+El grupo "Anonymous" filtró datos masivos del Vaticano y corporaciones
+El ataque a "Yahoo" comprometió 3 mil millones de cuentas en 2013
+El grupo "LAPSUS$" hackeó Microsoft y Nvidia en operaciones recientes
+El hackeo de "Target" expuso millones de tarjetas de crédito en 2013
+El grupo "The Dark Overlord" realizó exfiltración de series de Netflix
+El ataque a "Ashley Madison" expuso información de 37 millones de usuarios
+El ransomware "WannaCry" paralizó hospitales en 2017
+"REvil" lanzó ataques criptoransom contra "JBS" y "Kaseya"
+El hackeo a "Equifax" comprometió datos financieros de millones
+El hackeo de "Mt. Gox" expuso grandes volúmenes de criptomonedas robadas
+"Carbanak" realizó ataques a cajeros automáticos globales
+La red "Emotet" facilitó distribuciones de payloads complejos
+"Conti" lanzó múltiples ataques de ransomware dirigidos a gobiernos
+"BlackMatter" sucedió a "DarkSide" en ataques a infraestructura crítica
+El grupo "Cobalt" hackeó redes SWIFT para operaciones bancarias
+La "Operación Aurora" comprometió grandes tecnológicas como Google
+El hackeo a "Sony Pictures" filtró correos corporativos sensibles
+"Cl0p" atacó empresas mediante vulnerabilidades de MOVEit Transfer
+El ataque a "Marriott" expuso información de 500 millones de usuarios
+El hackeo a "Anthem" comprometió datos de salud de millones de personas
+"Fin7" usó POS malware para robar tarjetas en cadenas minoristas
+El grupo "RansomExx" atacó redes gubernamentales con ransomware
+La "Operación Nightshade" atacó empresas de defensa con spear phishing
+El hackeo de "Colonial Pipeline" interrumpió el suministro de combustible
+El hackeo a "LinkedIn" expuso información de 700 millones de usuarios
+"TrickBot" infectó redes corporativas mediante campañas de phishing
+El grupo "APT33" lanzó ataques DDoS contra infraestructura saudita
+El ransomware "Ryuk" generó millones en pagos de rescate
+"DarkSide" afectó infraestructura crítica con ransomware avanzado
+La red "Hydra" fue un importante mercado de la darknet desmantelado
+El hackeo a "Cambridge Analytica" involucró minería masiva de datos
+El hackeo a "PlayStation Network" dejó a millones de usuarios sin servicio
+El ransomware "Maze" filtró datos de sus víctimas tras el cifrado
+"NetWalker" lanzó campañas de ransomware contra universidades
+El grupo "OurMine" hackeó cuentas de Twitter de CEOs y empresas
+"Operation Windigo" distribuyó malware mediante servidores Linux
+La "Botnet Mirai" realizó ataques DDoS masivos con dispositivos IoT
+El hackeo de "Home Depot" expuso datos de 56 millones de tarjetas
+El ransomware "LockBit" atacó redes críticas con cifrado modular
+"RedLine Stealer" robó credenciales de millones de navegadores
+El ataque a "Uber" expuso datos internos y vulnerabilidades
+El grupo "TA505" usó "Clop" para ataques dirigidos en Europa
+El hackeo de "T-Mobile" expuso información de millones de usuarios
+"Operation Buckshot Yankee" atacó redes militares con malware USB
+"ShinyHunters" filtró datos de múltiples servicios en la dark web
+El ataque "NotPetya" afectó múltiples sectores en Ucrania y Europa
+El hackeo a "Facebook" expuso datos de más de 500 millones de cuentas
+La "Red Necurs" fue una de las botnets de spam más grandes del mundo
+El grupo "GhostSec" hackeó redes asociadas con organizaciones terroristas
+El ataque a "Capcom" filtró juegos en desarrollo y datos de empleados
+El hackeo de "Bitfinex" fue uno de los mayores robos de criptomonedas
+APT: "APT34" usó "DNS Tunneling" para exfiltrar datos sensibles
+APT: "APT35" ejecutó campañas de desinformación y phishing político
+APT: "APT40" se centró en operaciones marítimas y datos militares
+APT: "APT19" realizó ataques de spear phishing contra think tanks
+APT: "APT-C-36" enfocó ataques en instituciones financieras sudamericanas
+APT: "APT28" comprometió redes de la OTAN mediante zero-days
+APT: "APT-C-14" utilizó RAT personalizados para vigilancia remota
+APT: "APT22" se especializó en espionaje asiático utilizando scripts VBS
+APT: "APT39" empleó spyware móvil para seguimiento de diplomáticos
+APT: "APT25" hackeó servidores web mediante exploits IIS
+APT: "APT-D-27" realizó inyecciones DLL en sistemas europeos
+APT: "Berserk Bear" atacó redes de distribución eléctrica en EE. UU.
+APT: "APT-E-12" comprometió routers para instalar puertas traseras
+APT: "Sofacy Group" lanzó exploits PDF en campañas de phishing
+APT: "APT43" desarrolló malware modular basado en Linux
+APT: "APT12" infectó redes diplomáticas con herramientas RAT avanzadas
+APT: "BlackTech" realizó campañas de espionaje contra Japón y Taiwán
+APT: "APT-C-01" distribuyó troyanos bancarios en América Latina
+APT: "APT-R-09" utilizó PowerShell para movimientos laterales
+APT: "Operation Aurora Panda" comprometió redes financieras asiáticas
+APT: "APT29" evadió detección con loaders cifrados en ataques recientes
+APT: "APT3" robó información de proyectos de defensa aeroespacial
+APT: "APT26" realizó ataques de phishing durante campañas electorales
+APT: "APT46" usó herramientas de terceros como "Cobalt Strike"
+APT: "Bronze Butler" hackeó instituciones financieras japonesas
+APT: "APT-D-15" infectó redes gubernamentales con RAT personalizados
+APT: "APT-J-07" ejecutó ataques de watering hole en sitios regionales
+APT: "APT47" comprometió servicios de correo mediante exploits IMAP
+APT: "Gallium" usó malware VoIP para espiar conversaciones telefónicas
+APT: "Gorgon Group" mezcló cibercrimen y operaciones APT
+APT: "APT49" se centró en infraestructuras críticas australianas
+APT: "Ghostwriter" realizó campañas de desinformación en redes sociales
+APT: "BlueNoroff" apuntó a entidades de criptomonedas y fintech
+APT: "Silent Librarian" robó datos académicos mediante phishing masivo
+APT: "APT50" comprometió sistemas de control industrial con SCADA exploits
+APT: "APT-K-11" utilizó rootkits en ataques a cadenas de suministro
+APT: "APT-Z-03" desplegó malware vía servidores VPN vulnerables
+APT: "APT51" utilizó exploits de RCE en servidores Apache
+APT: "APT-D-35" inyectó scripts PHP maliciosos en CMS públicos
+APT: "RedOctober" atacó infraestructuras diplomáticas con spyware
+APT: "APT38" utilizó técnicas avanzadas de post-explotación con VPN
+APT: "APT-Y-14" empleó trampas en macros Excel para infectar cadenas logísticas
+APT: "APT36" infectó dispositivos móviles con aplicaciones falsas
+APT: "APT-J-03" infiltró redes de investigación con payloads RAT
+APT: "APT-H-09" utilizó exploits de Office para cargar shellcode en memoria
+APT: "APT-C-08" empleó esteganografía para ocultar comandos C2
+El hackeo a "Colonial Pipeline" bloqueó la distribución de combustible
+"RansomEXX" filtró datos de la Agencia Nacional de Seguridad de Brasil
+El hackeo de "Desjardins" comprometió información financiera de 9,7 millones
+"Wizard Spider" distribuyó ransomware "Conti" en hospitales europeos
+"Fancy Bear" usó exploits para robar información de la WADA
+El hackeo de "HBO" filtró episodios inéditos de "Game of Thrones"
+"APT28" lanzó campañas de spear phishing contra instituciones de la UE
+El ataque a "Nvidia" expuso datos de GPU y tecnologías propietarias
+El hackeo de "Coincheck" resultó en la pérdida de 530 millones de dólares
+La operación "Night Dragon" robó datos de proyectos de energía
+El grupo "TeamTNT" comprometió servidores Docker con mineros de criptomonedas
+El ataque a "JBS" resultó en un rescate multimillonario
+El hackeo de "Colonial Pipeline" afectó operaciones energéticas clave
+El ransomware "LockBit" cifró archivos en múltiples instituciones
+El ataque a "Sony PlayStation Network" expuso 77 millones de cuentas
+El grupo "TA505" hackeó infraestructuras de comercio electrónico
+La red "Cobalt Group" atacó SWIFT en operaciones bancarias globales
+El hackeo de "British Airways" expuso datos de clientes y transacciones
+"APT35" robó credenciales de universidades con spear phishing
+El ransomware "Cl0p" atacó grandes corporaciones mediante brechas de MOVEit
+El grupo "Carbanak" robó fondos modificando balances de cuentas
+La "Botnet GameOver Zeus" se utilizó para fraudes masivos
+El ataque a "Capcom" resultó en la exposición de datos corporativos
+La operación "GhostNet" se centró en vigilancia global en embajadas
+El hackeo a "Anthem" comprometió información médica de millones
+El ataque a "Ashley Madison" expuso información privada de usuarios
+El hackeo de "Deloitte" expuso datos confidenciales de clientes
+"Operation Armageddon" atacó redes gubernamentales ucranianas
+El grupo "OurMine" hackeó cuentas de Twitter de figuras públicas
+La "Botnet Mirai" colapsó servicios mediante ataques DDoS IoT
+El ransomware "Ryuk" recaudó millones a través de rescates internacionales
+"NotPetya" fue considerado un ataque destructivo global
+El hackeo de "Target" comprometió 40 millones de tarjetas de crédito
+El ataque a "Equifax" expuso datos de más de 147 millones de personas
+El hackeo de "Home Depot" expuso datos de millones de clientes
+El ransomware "Maze" filtró información corporativa tras cifrar archivos
+La red "Emotet" distribuyó múltiples payloads de ransomware
+El ataque a "Yahoo" comprometió información de 3 mil millones de cuentas
+El grupo "LAPSUS$" hackeó cuentas de Microsoft y Uber
+El hackeo de "Bitfinex" resultó en el robo de criptomonedas
+"Cl0p" utilizó exploits de transferencia de archivos para infiltrarse
+El ataque a "Colonial Pipeline" interrumpió servicios de energía
+El grupo "TA505" utilizó ransomware "LockBit" para infiltrarse en redes
+La "Red Hydra" fue un mercado ilegal de la darknet desmantelado
+El hackeo de "SolarWinds" comprometió múltiples agencias de EE. UU.
+El grupo "RansomEXX" atacó a sistemas públicos en Italia y Brasil
+El ataque a "Colonial Pipeline" provocó una crisis de combustible
+El ransomware "Hive" cifró redes hospitalarias en múltiples países
+El hackeo a "LinkedIn" expuso más de 500 millones de cuentas
+El grupo "DarkSide" obtuvo rescates de millones de dólares
+El ataque a "JBS Foods" interrumpió la cadena de suministro cárnica
+El ransomware "Maze" lanzó amenazas de filtración tras el cifrado
+La red "Hydra" fue una de las mayores plataformas de la darknet
+El grupo "Wizard Spider" utilizó "Conti" en ataques globales
+La botnet "Emotet" distribuyó payloads de ransomware a gran escala
+El ataque de "NetWalker" afectó universidades y servicios críticos
+El grupo "REvil" extorsionó a empresas como "Kaseya" y "JBS"
+El hackeo de "Marriott" expuso datos de 500 millones de usuarios
+El grupo "TA505" utilizó ransomware "Clop" en operaciones dirigidas
+El hackeo de "Target" comprometió millones de cuentas bancarias
+El ransomware "Ryuk" afectó redes corporativas globales
+El ataque a "Yahoo" fue uno de los mayores robos de datos de la historia
+La botnet "Mirai" colapsó servicios de telecomunicaciones con DDoS
+El hackeo a "Ashley Madison" expuso datos personales sensibles
+El grupo "APT33" lanzó ataques aéreos digitales contra infraestructuras
+El ransomware "LockBit" atacó múltiples redes críticas
+El grupo "LAPSUS$" hackeó cuentas de empleados de Microsoft
+El hackeo a "Anthem" expuso información médica masiva
+El ransomware "REvil" forzó pagos multimillonarios de rescate
+El ataque a "Sony Pictures" filtró correos y guiones inéditos
+La operación "ShinyHunters" expuso millones de datos corporativos
+El ataque "NotPetya" fue considerado un ciberarma de destrucción
+El grupo "Carbanak" robó fondos manipulando balances de cuentas
+El hackeo de "Bitfinex" resultó en un robo masivo de criptomonedas
+La red "GameOver Zeus" se usó para cometer fraudes financieros
+El hackeo de "Deloitte" expuso datos de múltiples clientes
+El ataque a "Capcom" comprometió datos de juegos y empleados
+El grupo "OurMine" hackeó cuentas de redes sociales de figuras públicas
+La operación "GhostNet" vigiló embajadas mediante botnets globales
+El hackeo de "Equifax" comprometió datos financieros de millones
+El ataque a "Facebook" expuso información de más de 500 millones de cuentas
+El hackeo de "Desjardins" expuso datos bancarios de más de 9 millones
+El ransomware "Maze" fue pionero en tácticas de doble extorsión
+La red "Hydra" fue un importante mercado ilegal de la darknet
+El ataque a "Cambridge Analytica" mostró el poder de la minería de datos
+El ransomware "Clop" atacó múltiples infraestructuras críticas
+El grupo "TA505" utilizó tácticas de spam y phishing avanzadas
+El hackeo de "Home Depot" expuso datos de millones de usuarios
+La operación "Windigo" comprometió servidores con malware persistente
+El ransomware "WannaCry" paralizó hospitales y empresas en 2017
+El hackeo de "T-Mobile" comprometió datos de 50 millones de clientes
+El ransomware "REvil" atacó infraestructuras críticas y servicios financieros
+La operación "Dragonfly" comprometió redes eléctricas y de energía
+El hackeo de "Colonial Pipeline" paralizó el suministro de combustible en EE. UU.
+El ransomware "Hive" atacó múltiples hospitales y redes médicas
+La botnet "Emotet" distribuyó cargas de ransomware globalmente
+El hackeo de "SolarWinds" afectó a agencias gubernamentales de EE. UU.
+La operación "Windigo" infectó miles de servidores Linux
+El hackeo de "Desjardins" expuso datos personales y financieros
+El ataque a "Sony Pictures" reveló información interna corporativa
+El ransomware "Maze" fue pionero en tácticas de doble extorsión
+La operación "Night Dragon" robó propiedad intelectual energética
+El hackeo de "Ashley Madison" expuso datos de usuarios y correos
+El ataque a "Anthem" comprometió información médica de millones
+El hackeo a "Target" filtró datos de 40 millones de clientes
+El grupo "TA505" lanzó campañas de ransomware dirigidas con "Clop"
+La operación "GhostNet" espió redes diplomáticas con malware RAT
+El hackeo de "Home Depot" expuso información de pagos y clientes
+El ransomware "Ryuk" causó interrupciones en redes de servicios esenciales
+El ataque "NotPetya" fue considerado un ciberarma de impacto global
+El hackeo de "Equifax" expuso información financiera sensible
+La botnet "Mirai" llevó a cabo uno de los mayores ataques DDoS de la historia
+El grupo "APT33" atacó infraestructura crítica mediante spear phishing
+El ransomware "LockBit" atacó redes financieras y corporativas
+El hackeo a "LinkedIn" comprometió cientos de millones de cuentas
+El ataque a "Bitfinex" resultó en el robo masivo de criptomonedas
+El grupo "REvil" lanzó ataques combinados contra múltiples empresas
+La operación "ShinyHunters" filtró millones de registros de empresas
+El hackeo de "Deloitte" expuso datos confidenciales de clientes
+El ransomware "Maze" atacó infraestructuras críticas con tácticas combinadas
+El hackeo de "Cambridge Analytica" involucró minería masiva de datos
+El grupo "OurMine" comprometió cuentas de celebridades y empresas
+El hackeo de "Capcom" filtró proyectos de videojuegos inéditos
+El ransomware "NetWalker" atacó universidades y redes de investigación
+La red "Hydra" fue desmantelada tras años de actividades en la darknet
+El grupo "Carbanak" utilizó ataques SWIFT para robo de fondos
+El ransomware "WannaCry" afectó hospitales y empresas globalmente
+La operación "Nightshade" comprometió redes de defensa militar
+El hackeo de "Bitfinex" sigue siendo uno de los mayores robos de criptomonedas
+El ataque a "Facebook" expuso información de más de 500 millones de cuentas
+La operación "Operation Armageddon" atacó redes gubernamentales ucranianas
+La botnet "GameOver Zeus" facilitó fraudes a gran escala
+El hackeo de "Yahoo" comprometió información de 3 mil millones de cuentas
+El grupo "LAPSUS$" hackeó cuentas de empleados de Nvidia
+La operación "Ghostwriter" lanzó campañas de desinformación masivas
+El ataque a "British Airways" comprometió datos de clientes y pagos
+La operación "Aurora" atacó gigantes tecnológicos como Google
+El grupo "APT28" robó datos confidenciales de organismos internacionales
+El hackeo de "Colonial Pipeline" forzó un pago multimillonario de rescate
+El ataque a "T-Mobile" filtró datos confidenciales de millones de clientes
+El hackeo de "LinkedIn" comprometió perfiles profesionales a nivel global
+La operación "SolarWinds" vulneró agencias de seguridad estadounidenses
+El ransomware "REvil" extorsionó empresas mediante ataques dobles
+El hackeo de "Sony Pictures" filtró información clasificada y correos privados
+La botnet "Emotet" envió millones de correos maliciosos con payloads cifrados
+La operación "Windigo" comprometió servidores para distribuir malware
+El ransomware "LockBit" cifró sistemas críticos en múltiples organizaciones
+El hackeo de "Cambridge Analytica" reveló prácticas de minería de datos masiva
+El grupo "TA505" usó spam masivo para distribuir ransomware "Clop"
+La operación "Night Dragon" robó datos de proyectos de energía en Asia
+El ransomware "WannaCry" utilizó el exploit "EternalBlue" para expandirse
+La botnet "Mirai" fue responsable de ataques DDoS masivos a infraestructura IoT
+El hackeo de "Yahoo" expuso datos de más de 3 mil millones de cuentas
+El grupo "OurMine" comprometió cuentas de redes sociales de famosos
+El ransomware "Maze" filtró información crítica tras cifrar sistemas
+El hackeo de "Equifax" expuso información financiera de millones de usuarios
+El ataque a "Bitfinex" sigue siendo uno de los mayores robos de criptomonedas
+La operación "GhostNet" vigiló redes diplomáticas con herramientas RAT
+El hackeo de "Deloitte" expuso datos confidenciales de clientes corporativos
+El ataque a "Facebook" expuso datos de cientos de millones de usuarios
+El ransomware "NetWalker" atacó universidades y redes de investigación
+El grupo "LAPSUS$" hackeó cuentas internas de gigantes tecnológicos
+La operación "Aurora" vulneró empresas tecnológicas como Google
+El ransomware "Ryuk" generó millones de dólares en pagos de rescate
+La red "Hydra" fue desmantelada por actividades ilegales en la darknet
+El hackeo de "Home Depot" comprometió tarjetas de crédito de sus clientes
+El grupo "APT28" hackeó organismos internacionales para espionaje masivo
+El ransomware "Hive" atacó hospitales con cifrado modular avanzado
+El hackeo de "Capcom" filtró juegos inéditos y datos corporativos
+La operación "ShinyHunters" comprometió millones de cuentas de servicios online
+El ataque "NotPetya" paralizó infraestructuras críticas globalmente
+El ransomware "Cl0p" explotó vulnerabilidades de transferencia de archivos
+El grupo "Wizard Spider" desplegó "TrickBot" y "Conti" en operaciones combinadas
+El hackeo de "British Airways" expuso datos de transacciones de clientes
+El grupo "REvil" lanzó ataques coordinados contra múltiples industrias
+El hackeo de "Desjardins" comprometió datos de más de 9 millones de clientes
+La operación "Ghostwriter" realizó campañas de desinformación masiva
+La operación "Nightshade" atacó redes de defensa y militares con RAT
+El hackeo de "Anthem" expuso información médica de millones de usuarios
+El grupo "Carbanak" utilizó backdoors avanzados para robo de fondos
+El ransomware "Maze" introdujo la táctica de doble extorsión en la ciberdelincuencia
+El hackeo de "Marriott" comprometió información de 500 millones de usuarios
+La operación "Operation Armageddon" atacó redes gubernamentales de Ucrania
+La operación "DarkSide" interrumpió servicios esenciales con ransomware
+La botnet "GameOver Zeus" se utilizó para realizar fraudes bancarios
+El ataque a "Yahoo" sigue siendo uno de los mayores hackeos masivos
+El ransomware "REvil" forzó pagos de rescate de millones de dólares
+El hackeo a "T-Mobile" filtró información sensible de millones de usuarios
+La operación "Ghostwriter" generó campañas de manipulación en redes sociales
+El hackeo de "Marriott" comprometió datos de reservas y transacciones
+El ransomware "Hive" cifró redes hospitalarias y sistemas críticos
+El hackeo a "Bitfinex" expuso grandes volúmenes de criptomonedas robadas
+La operación "Aurora" vulneró infraestructuras de empresas tecnológicas
+El hackeo de "Home Depot" filtró información de pagos de millones de clientes
+La botnet "Mirai" derribó servicios de internet con ataques DDoS masivos
+El ransomware "Cl0p" explotó servidores de transferencia de archivos
+El ataque de "DarkSide" interrumpió operaciones de infraestructura energética
+El ransomware "Maze" introdujo tácticas de filtración de datos cifrados
+El hackeo de "Cambridge Analytica" mostró el poder de la minería de datos
+El hackeo a "Sony Pictures" reveló guiones y correos confidenciales
+El grupo "LAPSUS$" comprometió cuentas internas de grandes empresas
+La operación "ShinyHunters" expuso millones de datos corporativos y personales
+El hackeo de "Deloitte" filtró información sensible de clientes y proyectos
+El ransomware "NetWalker" atacó redes universitarias de investigación
+El grupo "Carbanak" comprometió redes bancarias para robo de fondos
+El ransomware "WannaCry" paralizó empresas y hospitales con ataques globales
+El hackeo de "Equifax" sigue siendo una de las mayores brechas de datos
+La botnet "GameOver Zeus" permitió cometer fraudes bancarios globalmente
+La red "Hydra" fue desmantelada tras ser uno de los mercados ilegales más grandes
+El hackeo de "Anthem" comprometió datos de salud de millones de personas
+La operación "Nightshade" atacó redes de defensa y militares globalmente
+El ataque "NotPetya" colapsó infraestructuras críticas de múltiples países
+El hackeo de "Target" filtró datos de pago de millones de usuarios
+El ataque de "OurMine" comprometió cuentas de figuras públicas y empresas
+El hackeo de "LinkedIn" comprometió perfiles profesionales a nivel mundial
+La operación "Night Dragon" robó propiedad intelectual energética global
+El ransomware "LockBit" lanzó campañas de cifrado dirigidas a empresas
+El hackeo de "Capcom" filtró proyectos de juegos no anunciados
+El ataque a "Desjardins" expuso datos bancarios de más de 9 millones de personas
+La operación "Operation Armageddon" apuntó a redes gubernamentales de Ucrania
+El grupo "Wizard Spider" utilizó "Conti" en ataques coordinados
+El ataque a "Facebook" comprometió datos de cientos de millones de cuentas
+El ransomware "Ryuk" interrumpió operaciones de servicios de emergencia
+El hackeo de "British Airways" expuso datos de pagos de clientes
+El hackeo de "Sony PlayStation Network" dejó sin servicio a millones de usuarios
+El hackeo de "Ashley Madison" expuso datos privados de millones de usuarios
+El ataque a "Colonial Pipeline" causó desabastecimiento de combustible
+El grupo "REvil" realizó campañas de ransomware con doble extorsión
+El hackeo de "Emotet" distribuyó múltiples payloads de ransomware
+La botnet "Necurs" envió millones de correos de spam a nivel global
+El hackeo de "SolarWinds" comprometió sistemas de agencias de seguridad
+El ransomware "Maze" generó un impacto crítico en redes empresariales globales

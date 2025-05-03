@@ -1,0 +1,799 @@
+Cuanto más silencioso te vuelves, más eres capaz de escuchar. – Ram Dass
+¡Hackea el planeta! – Anónimo
+Cada cerradura tiene una llave, cada sistema tiene una debilidad.
+No confíes en nada, verifica todo.
+No hay parche para la estupidez humana. – Kevin Mitnick
+La privacidad no es un privilegio, es un derecho.
+Root es solo un estado mental.
+Si no puedes abrirlo, no te pertenece.
+La mejor manera de predecir el futuro es inventándolo. – Alan Kay
+El único sistema realmente seguro es el que está apagado.
+Los hackers no rompen sistemas, rompen suposiciones.
+El anonimato es libertad.
+Programar no es solo escribir código; es dar vida a algo que sirve a todos. – Mehmet Murat İldan
+Cuando no creas cosas, te defines por tus gustos. – Anónimo
+Mantente curioso, mantente vigilante.
+El conocimiento es poder, compártelo libremente.
+La frase más peligrosa en tecnología: 'Siempre se ha hecho así'.
+La seguridad por oscuridad no es seguridad en absoluto.
+Los hackers son el sistema inmunológico de Internet.
+Lo que un hombre puede inventar, otro puede descubrirlo. – Sherlock Holmes
+Internet es un campo de batalla. Protégete.
+El código es la ley. – Lawrence Lessig
+Sin información, no hay libertad.
+La terminal es mi lienzo, y los comandos son mi pincel.
+Eres tan seguro como tu eslabón más débil.
+Piensa como un hacker, defiéndete como un ninja.
+No es un error; es una función esperando ser explotada.
+Un buen hacker encuentra soluciones, un gran hacker encuentra problemas.
+Todo está roto; nuestro trabajo es arreglarlo.
+Los hackers construyen cosas, los crackers las destruyen.
+Los exploits no esperan, los parches sí.
+La información quiere ser libre.
+Un hacker no ve límites, solo desafíos.
+La seguridad perfecta es un mito.
+Los datos no mienten, las personas sí.
+Cada bit cuenta.
+La red es vasta e infinita.
+La confianza se gana, la seguridad se prueba.
+Hackear es un arte, no un delito.
+El sistema más fuerte cae por el eslabón más débil.
+No hay secretos en la red, solo información mal protegida.
+Tu contraseña es tu primera línea de defensa.
+La verdadera fortaleza es entender las debilidades.
+Una idea brillante puede nacer del caos.
+Nunca subestimes el poder de un pequeño script.
+Los sistemas complejos son hermosos y frágiles.
+Haz copias de seguridad antes de que el desastre te enseñe.
+Una puerta cerrada siempre es un reto.
+Sin logs, no hay pruebas.
+El código abierto no teme ser visto.
+En la red, nadie puede oírte gritar.
+Toda red tiene un agujero, solo hay que encontrarlo.
+Un hacker siempre está aprendiendo.
+Una computadora hace lo que le ordenas, no lo que quieres.
+El anonimato es la armadura del hacker.
+La ética es lo que diferencia a un hacker de un criminal.
+No es magia, es programación.
+Una pequeña fuga puede hundir un sistema enorme.
+Piensa fuera de la caja, el sistema está dentro.
+La creatividad es el mayor exploit.
+Cada red caída enseña una lección nueva.
+Tu sistema es tan seguro como tu peor día.
+Un verdadero hacker no deja huellas.
+La shell es un universo de posibilidades.
+No ejecutes scripts que no entiendas.
+Haz pruebas, rompe cosas, aprende.
+El firewall no protege lo que no puedes ver.
+Una vez que aprendes a programar, ves el mundo de otra forma.
+La curiosidad no conoce límites.
+En un mundo conectado, la desconexión es la única seguridad.
+No sigas las reglas si puedes mejorarlas.
+El sistema no se cae solo; alguien siempre lo empuja.
+Lo imposible solo tarda un poco más.
+No necesitas permisos si tienes imaginación.
+El hacking es resolución de problemas en su forma más pura.
+Los logs son los mejores amigos de un atacante.
+La paciencia es la herramienta más poderosa de un hacker.
+Nunca confíes en la entrada del usuario.
+La verdadera seguridad empieza por la educación.
+El objetivo no es destruir, sino comprender.
+Si no puedes protegerlo, no lo mereces.
+Cada error es una lección en el mundo del hacking.
+No pienses como un usuario, piensa como un atacante.
+La curiosidad convierte a un usuario en un hacker.
+Un buen exploit es pura poesía.
+La mejor herramienta de un hacker es su mente.
+Los verdaderos hackers comparten su conocimiento.
+La red no olvida, solo espera.
+Si hay una puerta, alguien intentará abrirla.
+El anonimato en línea no es un lujo, es una necesidad.
+Cada línea de código tiene una historia.
+Los hackers no rompen cosas, las mejoran a su manera.
+Si puedes imaginarlo, puedes hackearlo.
+La creatividad rompe más sistemas que la fuerza bruta.
+Nada es seguro, solo temporalmente protegido.
+La libertad digital comienza con el conocimiento.
+Detrás de cada firewall hay alguien confiado.
+El hacking es un juego sin manual de instrucciones.
+Un hacker siempre encuentra una manera.
+La mayor vulnerabilidad es pensar que no existe ninguna.
+Stuxnet: La primera arma cibernética diseñada para sabotear una planta nuclear iraní.
+Wannacry: Un ransomware global que convirtió parches faltantes en caos.
+El hackeo de Yahoo: 3 mil millones de cuentas expuestas, redefiniendo la brecha de datos.
+SolarWinds: Cuando el software de gestión se convirtió en la puerta trasera de gobiernos y empresas.
+APT28 (Fancy Bear): Espías digitales vinculados al Kremlin, expertos en infiltración política.
+El robo de Bangladesh Bank: SWIFT manipulado para extraer $81 millones, un golpe digital histórico.
+Heartbleed: Un simple "latido" que filtraba datos privados por años.
+NotPetya: El ransomware que no era ransomware, diseñado solo para destruir.
+Lizard Squad: Los que hicieron caer Xbox Live y PlayStation Network solo por diversión.
+APT1: Un grupo chino atacando industrias estadounidenses durante años sin ser detectado.
+Shadow Brokers: Filtraron herramientas de hacking de la NSA y cambiaron el juego.
+El hackeo de Sony Pictures: Corea del Norte atacó el cine con motivaciones políticas.
+La operación Aurora: Google y grandes empresas caen ante un ataque APT sofisticado.
+Anonymous y Scientology: Un grupo anónimo, una guerra por la información y la libertad.
+Mirai Botnet: Cámaras y dispositivos IoT convertidos en un ejército de DDoS.
+Equifax: Cuando los datos financieros de millones quedaron expuestos en un ciberatraco masivo.
+El hackeo de Marriott: 500 millones de registros de huéspedes comprometidos, una operación a largo plazo.
+DarkHotel: Hackers que acechaban a ejecutivos en redes WiFi de hoteles de lujo.
+APT29 (Cozy Bear): La inteligencia rusa infiltrándose silenciosamente en sistemas occidentales.
+El robo de Mt. Gox: 850,000 bitcoins desaparecidos, el robo más grande en cripto.
+La operación Carbanak: Hackers que convirtieron bancos en cajeros automáticos remotos.
+Strontium: El grupo que atacó a instituciones democráticas para sembrar el caos.
+Sodinokibi (REvil): El ransomware como servicio que paralizó industrias enteras.
+Operation Shady RAT: Una década de espionaje cibernético y robo de datos.
+Operation Night Dragon: Hackeando gigantes energéticos para robar secretos industriales.
+El ataque a Target: Datos de tarjetas de crédito filtrados por una brecha de seguridad masiva.
+Operation Buckshot Yankee: Un USB infectado puso en jaque al Pentágono.
+CryptoLocker: El ransomware pionero en cifrar archivos y exigir rescates en Bitcoin.
+Titan Rain: Espionaje masivo dirigido a agencias gubernamentales de EE. UU.
+GhostNet: Un sistema de vigilancia global con China como presunto origen.
+DarkSeoul: Hackers paralizaron bancos y medios surcoreanos en un ataque coordinado.
+Operation Cleaver: Un grupo iraní infiltrando sistemas de infraestructura crítica.
+BlackEnergy: Malware que apagó la red eléctrica en Ucrania, demostrando el poder cibernético.
+El hackeo de Ashley Madison: Datos de una web de infidelidades expuestos al mundo.
+El ataque de Colonial Pipeline: El ransomware que paralizó el suministro de gasolina en EE. UU.
+Turla: Hackers rusos que usaron satélites para ocultar sus huellas digitales.
+Havex: Malware dirigido a sistemas SCADA industriales en ataques silenciosos.
+BlueKeep: Una vulnerabilidad que puso en riesgo millones de sistemas Windows.
+Operation Payback: Anonymous lanzó ataques masivos DDoS contra grandes corporaciones.
+La brecha de LinkedIn: 700 millones de perfiles expuestos a la venta en la dark web.
+Operation Olympic Games: La NSA e Israel colaboraron en la creación de Stuxnet.
+El hackeo de Capital One: Datos de 106 millones de usuarios robados por un solo atacante.
+Emotet: El malware que evolucionó hasta convertirse en una amenaza global de distribución.
+Operation GhostNet: El espionaje global dirigido a gobiernos y organizaciones tibetanas.
+Cobalt Strike: La herramienta legítima utilizada por hackers para ataques post-explotación.
+Operation Red October: Malware espía altamente sofisticado enfocado en diplomáticos.
+El caso de TJX: La primera gran filtración de tarjetas de crédito con 45 millones de afectados.
+The Equation Group: Un grupo vinculado a la NSA, capaz de infectar firmware de discos duros.
+Operation Skeleton Key: Hackers silenciosos que burlaban controles biométricos.
+APT28 (Fancy Bear): Un grupo ruso conocido por ataques a instituciones políticas y militares.
+APT29 (Cozy Bear): Hackers vinculados a la inteligencia rusa con un enfoque en el espionaje de largo plazo.
+Lazarus Group: Un grupo norcoreano famoso por el robo de bancos y ciberataques destructivos.
+Cobalt Group: Hackers enfocados en fraudes bancarios y ataques a sistemas financieros.
+Equation Group: Vinculado a la NSA, pioneros en ciberarmas sofisticadas como Stuxnet.
+Carbanak: Hackers que lograron controlar redes bancarias y manipular cajeros automáticos.
+Turla: Grupo ruso experto en infiltraciones y espionaje a largo plazo, conocido por su sigilo.
+DarkHotel: Hackers que apuntan a ejecutivos y diplomáticos en redes de hoteles.
+APT1: Un grupo chino responsable de ciberespionaje industrial durante años.
+APT41: Hackers chinos que combinan espionaje estatal y ataques financieros.
+Elderwood Group: Expertos en ataques de día cero dirigidos a organizaciones estratégicas.
+Shamoon: Un grupo destructivo vinculado a Irán, famoso por ataques a empresas petroleras.
+OilRig: Hackers iraníes que atacan sectores financieros y gubernamentales en el Medio Oriente.
+Dragonfly: Un grupo que ataca redes eléctricas y sistemas industriales críticos.
+BlackEnergy: Hackers que atacaron infraestructuras en Ucrania, dejando millones sin electricidad.
+REvil (Sodinokibi): Un grupo de ransomware conocido por extorsionar empresas multimillonarias.
+FIN7: Hackers enfocados en el robo de datos financieros y fraudes con tarjetas de crédito.
+The Shadow Brokers: Filtraron herramientas de hacking de la NSA, cambiando la ciberseguridad.
+Anonymous: El colectivo anónimo más famoso del mundo, defensores del ciberactivismo.
+Lizard Squad: Hackers conocidos por ataques DDoS masivos y travesuras públicas.
+GhostNet: Un grupo chino acusado de espionaje global contra gobiernos y ONGs.
+Sandworm: Hackers rusos detrás de ataques destructivos como NotPetya y apagones eléctricos.
+Winnti Group: Hackers chinos que apuntan a la industria de los videojuegos y software.
+Tonto Team: Grupo chino que ataca organizaciones políticas y financieras en Asia.
+MuddyWater: Hackers iraníes conocidos por operaciones de espionaje persistente.
+Silent Librarian: Grupo iraní enfocado en robar datos de universidades globales.
+Bronze Butler: Hackers japoneses especializados en espionaje industrial.
+APT33: Un grupo iraní conocido por ataques a empresas de aviación y energía.
+APT37 (Reaper): Hackers norcoreanos dirigidos a objetivos en Corea del Sur.
+The Dark Overlord: Hackers extorsionadores que publicaban datos sensibles por rescates.
+Guccifer 2.0: Un personaje vinculado a Rusia, clave en la filtración de correos del DNC.
+The Hades Group: Hackers asociados a ciberespionaje con motivaciones políticas.
+FIN6: Grupo enfocado en robos masivos de tarjetas de crédito y monetización rápida.
+ScarCruft: Hackers norcoreanos enfocados en espionaje de alto perfil.
+APT10 (Red Apollo): Hackers chinos que atacaron empresas de servicios gestionados a nivel global.
+APT17 (Deputy Dog): Grupo chino conocido por utilizar herramientas avanzadas de hacking.
+Silent Group: Hackers independientes que operan con tácticas de espionaje silencioso.
+Operation Aurora: Una serie de ataques chinos dirigidos a Google y empresas tecnológicas.
+Evil Corp: Un grupo cibercriminal ruso especializado en ransomware y fraudes financieros.
+DragonOK: Hackers chinos que atacan organizaciones asiáticas usando malware personalizado.
+APT19: Grupo chino enfocado en bufetes de abogados y organizaciones financieras.
+Gorgon Group: Hackers pakistaníes que combinan espionaje y fraudes financieros.
+Syrian Electronic Army: Hackers pro-Assad conocidos por ataques mediáticos y desinformación.
+APT12: Un grupo chino enfocado en el espionaje gubernamental y militar.
+Fancy Lazarus: Una mezcla entre Fancy Bear y Lazarus, hackers con estrategias de ransomware.
+APT32 (OceanLotus): Hackers vietnamitas atacando industrias y gobiernos para obtener información.
+Rancor Group: Hackers del sudeste asiático especializados en ataques de espionaje.
+APT-C-23: Hackers pro-palestinos enfocados en espionaje a entidades gubernamentales.
+Tsunami Panda: Grupo chino experto en ataques prolongados a redes empresariales globales.
+ILOVEYOU: Gusano que infectaba sistemas a través de un falso "mensaje de amor", robando archivos.
+Stuxnet: Malware diseñado para sabotear sistemas industriales iraníes (centrífugas nucleares).
+WannaCry: Ransomware que cifraba archivos y pedía rescate, afectó a hospitales y empresas.
+NotPetya: Malware destructivo disfrazado de ransomware, causó pérdidas globales.
+Zeus: Troyano bancario usado para robar credenciales financieras y realizar fraudes.
+Mirai: Botnet que comprometía IoT para lanzar ataques DDoS masivos.
+Conficker: Gusano que explotaba vulnerabilidades de Windows para crear redes de bots.
+CryptoLocker: Ransomware que cifraba archivos y exigía pagos en Bitcoin.
+Emotet: Malware modular que distribuía spam y descargaba otros payloads maliciosos.
+TrickBot: Malware bancario que evolucionó a herramienta multiuso para espionaje y robo.
+Flame: Malware sofisticado usado para ciberespionaje en Medio Oriente.
+DarkTequila: Malware que robaba credenciales bancarias en América Latina.
+Ryuk: Ransomware dirigido a empresas con altos rescates económicos.
+BlackEnergy: Malware usado en ataques a infraestructuras eléctricas en Ucrania.
+Sobig: Gusano que se propagaba rápidamente vía correo electrónico.
+Melissa: Macrovirus propagado por Word que infectaba correos electrónicos.
+Code Red: Gusano que atacaba servidores IIS de Microsoft y realizaba defacements.
+Sasser: Gusano que causaba reinicios forzados al explotar vulnerabilidades en Windows.
+SQL Slammer: Malware que paralizaba servidores SQL en segundos mediante un ataque de buffer overflow.
+Blaster: Gusano que infectaba sistemas Windows y mostraba mensajes burlones.
+Anna Kournikova: Gusano que usaba ingeniería social con la "foto" de una tenista.
+Storm Worm: Troyano que usaba correos falsos sobre tormentas para crear botnets.
+SpyEye: Troyano bancario diseñado para robar credenciales financieras.
+CIH (Chernobyl): Virus que sobrescribía el BIOS, inutilizando computadoras.
+Duqu: Malware relacionado con Stuxnet, enfocado en espionaje industrial.
+Regin: Malware sofisticado usado para espionaje en telecomunicaciones.
+Locky: Ransomware que cifraba archivos y añadía la extensión ".locky".
+TeslaCrypt: Ransomware dirigido a gamers, cifraba archivos de videojuegos.
+Petya: Ransomware que cifraba discos completos, no solo archivos individuales.
+Bad Rabbit: Variante de Petya que se distribuía a través de sitios web infectados.
+Havex: Malware que atacaba sistemas SCADA en infraestructuras críticas.
+BlackPOS: Malware usado en ataques a sistemas de puntos de venta (PoS).
+Tinba: Troyano bancario extremadamente pequeño pero efectivo en robo de credenciales.
+Red October: Malware enfocado en espionaje a gobiernos y diplomáticos.
+Carbanak: Malware que robaba millones al infiltrarse en sistemas bancarios.
+Rovnix: Malware que persistía en el MBR para evitar su eliminación.
+Nymaim: Ransomware modular que incluía capacidades de descarga de otros payloads.
+Shamoon: Malware destructivo que borraba discos duros, usado en ataques a empresas.
+Zlob: Malware que engañaba a usuarios para descargar "codecs falsos" infectados.
+Poweliks: Malware sin archivos que infectaba el registro de Windows.
+Duuzer: Malware que realizaba ciberespionaje enfocado en Corea del Sur.
+Dorkbot: Botnet distribuida a través de USB y redes sociales para robo de credenciales.
+Ramnit: Malware que infectaba archivos ejecutables y robaba datos bancarios.
+Klez: Virus que desactivaba software antivirus y enviaba correos automáticos.
+AgentTesla: Malware keylogger usado para robar credenciales mediante email.
+Cerber: Ransomware sofisticado con capacidades de evasión avanzadas.
+Gamarue: Malware propagado por USB que infectaba millones de sistemas.
+BlueKeep: Malware que explotaba vulnerabilidades RDP en sistemas Windows.
+RAT (Remote Access Trojan): Malware que permite control remoto total sobre una máquina infectada.
+Nimda: Virus híbrido que combinaba gusano, troyano y rootkit en una única amenaza.
+Dridex: Troyano bancario enfocado en el robo de credenciales.
+Mimic: Malware que cifraba archivos y evitaba su detección mediante técnicas avanzadas.
+Polymorphic Virus: Malware que muta para evitar ser detectado por antivirus.
+Kaseya Ransomware: Malware que infectó a empresas mediante software de gestión.
+ZeroAccess: Rootkit que creaba botnets para minar criptomonedas.
+Trojan.Win32.Agent: Troyano diseñado para descargar y ejecutar otros malwares.
+PlugX: RAT que infecta redes empresariales y realiza ciberespionaje.
+DarkComet: RAT popular en ataques de acceso remoto.
+CryptoWall: Ransomware similar a CryptoLocker, usado en campañas masivas.
+Jigsaw: Ransomware que eliminaba archivos si no se pagaba el rescate.
+BlackShades: Malware que permitía acceso remoto y robaba datos sensibles.
+Cerberus: Troyano bancario avanzado para Android.
+Vundo: Adware que mostraba anuncios falsos y ralentizaba sistemas Windows.
+Operation Aurora: Malware utilizado en ataques chinos contra Google.
+Bashlite: Malware que infectaba dispositivos IoT para crear botnets.
+Pegasus: Spyware avanzado usado para espiar teléfonos móviles.
+FinFisher: Spyware comercial usado en operaciones de vigilancia gubernamental.
+HummingBad: Malware que instalaba anuncios en dispositivos Android.
+Gafgyt: Malware IoT que lanzaba ataques DDoS contra redes.
+Rovnix: Malware persistente que infectaba el arranque de sistemas Windows.
+Nitol: Malware distribuido mediante dispositivos USB infectados.
+Mydoom: Gusano que se propagaba rápidamente vía email, causando estragos.
+Sobig.F: Malware que colapsaba redes enteras al enviar correos masivos.
+Trojan.Yontoo: Malware que inyectaba anuncios en navegadores web.
+Upatre: Malware descargador utilizado en ataques masivos.
+Winwebsec: Falso software antivirus que estafaba a los usuarios.
+FakeAV: Malware que simulaba antivirus para engañar y robar dinero.
+APT29's WellMess: Malware usado en campañas de ciberespionaje ruso.
+FormBook: Troyano que robaba información desde formularios web.
+GozNym: Malware híbrido de Zeus y Nymaim, enfocado en robo financiero.
+Kobalos: Malware dirigido a supercomputadoras y servidores.
+Glupteba: Botnet multifuncional que incluía minado de criptomonedas.
+Lojax: Rootkit que infectaba firmware UEFI para persistencia avanzada.
+Faketoken: Malware en Android que robaba credenciales bancarias.
+Sality: Virus polimórfico que infectaba archivos ejecutables.
+Pushdo: Botnet usada para enviar spam masivo a nivel global.
+PittyTiger: Malware usado en ataques APT contra empresas asiáticas.
+Kasidet: Malware utilizado en ataques DDoS y robo de datos.
+Trisis (Triton): Malware que atacaba sistemas de seguridad industrial.
+RedLine Stealer: Malware que robaba información personal y credenciales.
+Silver Sparrow: Malware en macOS con funcionalidades avanzadas de persistencia.
+los equipos Red Team imitan ataques reales para probar la resiliencia de una organización.
+el primer paso de un ataque Red Team suele ser la fase de reconocimiento.
+OSINT (Open Source Intelligence) es clave para obtener información valiosa antes de un ataque.
+herramientas como Shodan permiten descubrir dispositivos expuestos en Internet.
+Metasploit es uno de los frameworks más utilizados para pruebas de penetración y exploits.
+"Phishing" es uno de los vectores más comunes utilizados por equipos Red Team.
+una prueba de intrusión física puede incluir el uso de **lockpicking** para acceder a áreas restringidas.
+herramientas como Burp Suite son esenciales para pruebas de aplicaciones web.
+el uso de **payloads** obfuscados ayuda a evadir antivirus y EDRs.
+**Cobalt Strike** es una herramienta avanzada para simulaciones de ataques en redes empresariales.
+un "golden ticket" en Kerberos permite acceso total a una red Active Directory.
+una "silver ticket" permite acceso a servicios específicos en un dominio Kerberos.
+en un ataque **Pass-the-Hash**, el atacante reutiliza el hash NTLM para autenticarse.
+herramientas como **Responder** permiten interceptar credenciales a través de SMB y LLMNR.
+el protocolo SMB es uno de los más explotados en redes internas para moverse lateralmente.
+los equipos Red Team utilizan **BloodHound** para mapear relaciones y privilegios en Active Directory.
+**Kerberoasting** extrae tickets de servicio Kerberos que pueden ser descifrados offline.
+el uso de herramientas como **Mimikatz** permite robar credenciales en memoria.
+**Brute Ratel** es una herramienta moderna que evade la mayoría de soluciones EDR.
+un "payload" **fileless** se ejecuta en memoria sin escribir archivos en disco.
+el ataque **DLL sideloading** consiste en cargar una DLL maliciosa a través de un programa legítimo.
+herramientas como **CrackMapExec** permiten escanear y atacar entornos Windows en red.
+los "canarios" son archivos señuelo utilizados para detectar intrusiones en sistemas.
+un ataque de **watering hole** infecta sitios web frecuentados por la víctima objetivo.
+en **técnicas de pivoting**, un atacante usa una máquina comprometida como salto hacia otra red.
+el **Lateral Movement** consiste en moverse de un sistema comprometido a otro dentro de la red.
+el protocolo RDP es a menudo explotado mediante ataques de fuerza bruta.
+**PowerShell** es una herramienta muy utilizada por atacantes Red Team para automatizar ataques.
+un ataque **Zero-Day** explota vulnerabilidades desconocidas aún no parchadas.
+**Exploit kits** automatizan la explotación de vulnerabilidades en sistemas desactualizados.
+los equipos Red Team utilizan **Beaconing** para mantener comunicación sigilosa con servidores C2.
+los **implant** son payloads persistentes usados en sistemas comprometidos.
+un ataque de **man-in-the-middle** permite interceptar y modificar el tráfico de la víctima.
+**EternalBlue** es un exploit usado en ataques como WannaCry y NotPetya.
+**Credential Dumping** extrae credenciales almacenadas en sistemas comprometidos.
+el protocolo **LDAP** es una fuente valiosa de información en ataques Active Directory.
+las **GPOs** mal configuradas pueden ser explotadas para obtener persistencia en dominios Windows.
+**NTDS.dit** contiene toda la base de datos de usuarios y contraseñas de Active Directory.
+el uso de **living-off-the-land binaries (LOLBins)** permite a los atacantes usar herramientas legítimas del sistema.
+**CVE-2021-34527 (PrintNightmare)** permite ejecución remota de código en servidores Windows.
+**SQL injection** permite a un atacante ejecutar consultas maliciosas en bases de datos.
+el protocolo **SNMP** es una fuente crítica de información durante la fase de enumeración.
+los equipos Red Team pueden simular ataques de **insiders** para evaluar amenazas internas.
+herramientas como **Nmap** permiten escanear redes y detectar servicios expuestos.
+el ataque **Spear Phishing** personaliza correos falsos para engañar a objetivos específicos.
+**Maltego** es una herramienta poderosa para realizar inteligencia de fuentes abiertas (OSINT).
+los **firewalls mal configurados** permiten tráfico no autorizado a través de puertos abiertos.
+en ataques de **Social Engineering**, la confianza del usuario es la primera vulnerabilidad explotada.
+**Black Box Testing** implica simular un atacante sin información previa del objetivo.
+**White Box Testing** permite evaluar sistemas con pleno conocimiento interno.
+**Elastic Search** mal configurado expone información crítica públicamente.
+el uso de **password spraying** intenta pocas contraseñas comunes en muchas cuentas para evitar bloqueos.
+**Wi-Fi hacking** permite capturar tráfico mediante técnicas de **handshake cracking**.
+**Wardriving** consiste en buscar redes Wi-Fi vulnerables durante el recorrido en un vehículo.
+las **misconfiguraciones de AWS S3 buckets** han expuesto datos sensibles de muchas empresas.
+los certificados TLS caducados pueden ser explotados para realizar ataques de downgrade.
+un **honeypot** es una trampa diseñada para detectar y estudiar ataques.
+**Docker escape** permite a un atacante salir de un contenedor comprometido hacia el host.
+**Golden SAML** es una técnica avanzada para obtener autenticación en federaciones de identidades.
+**JuicyPotato** explota privilegios en sistemas Windows para obtener escalada local.
+el ataque **IPv6 spoofing** manipula tráfico de red para redirigir sesiones.
+**XSS (Cross-Site Scripting)** permite inyectar scripts maliciosos en sitios web legítimos.
+**Credential stuffing** reutiliza contraseñas filtradas de una brecha para acceder a otras cuentas.
+**Buffer Overflow** es una técnica clásica para ejecutar código malicioso mediante desbordamientos de memoria.
+**Proxychains** permite redirigir tráfico a través de múltiples proxies para anonimizar conexiones.
+**MFA Fatigue** consiste en bombardear al usuario con solicitudes de autenticación hasta que ceda.
+**Golden Ticket** da acceso ilimitado en un dominio, incluso si se restablecen las contraseñas.
+**Command and Control (C2)** es la infraestructura que conecta al atacante con sus implantes.
+un ataque **Evil Twin** crea un punto de acceso falso para interceptar tráfico Wi-Fi.
+**DLL Hijacking** carga DLLs maliciosas en lugar de archivos legítimos.
+**Steganografía** permite ocultar payloads dentro de imágenes o archivos multimedia.
+**BloodHound** facilita la búsqueda de rutas de privilegios en Active Directory.
+el **BlueKeep (CVE-2019-0708)** permite ejecución remota de código a través de RDP.
+el malware **TRITON** fue diseñado para atacar sistemas de seguridad industrial SCADA.
+un SIEM centraliza y analiza logs para detectar amenazas en tiempo real.
+el modelo Zero Trust implica no confiar en ningún usuario ni dispositivo, sin importar su ubicación.
+un EDR (Endpoint Detection and Response) permite detectar y responder a actividades sospechosas en endpoints.
+el monitoreo constante de tráfico de red ayuda a identificar patrones anómalos y posibles ataques.
+los honeypots se utilizan como trampas para detectar y estudiar ataques en tiempo real.
+las herramientas de Threat Intelligence ayudan a anticipar y bloquear amenazas conocidas.
+el protocolo **Syslog** permite enviar y centralizar logs de múltiples sistemas.
+el **Hardening** de servidores y estaciones de trabajo minimiza las superficies de ataque.
+el control de acceso basado en roles (RBAC) limita los privilegios de los usuarios en función de sus tareas.
+**WAF (Web Application Firewall)** filtra y monitorea el tráfico HTTP/HTTPS para proteger aplicaciones web.
+la implementación de MFA (Multi-Factor Authentication) reduce drásticamente los riesgos de robo de credenciales.
+el **DLP (Data Loss Prevention)** previene la fuga o exfiltración de información sensible.
+**Segregación de redes** limita la propagación de ataques y mejora la seguridad.
+el análisis de logs de Active Directory puede detectar comportamientos sospechosos de usuarios y servicios.
+**Network Access Control (NAC)** permite restringir qué dispositivos pueden conectarse a la red.
+las actualizaciones automáticas y parches son esenciales para proteger sistemas contra vulnerabilidades conocidas.
+**Egress Filtering** controla el tráfico saliente y bloquea conexiones no autorizadas.
+el monitoreo de integridad de archivos (FIM) alerta sobre cambios no autorizados en archivos críticos.
+el uso de **sandboxing** permite analizar archivos y malware de forma segura.
+las copias de seguridad periódicas protegen los datos contra ataques de ransomware.
+un **IDS (Intrusion Detection System)** alerta sobre actividades maliciosas en la red.
+un **IPS (Intrusion Prevention System)** no solo detecta, sino que bloquea intentos de intrusión.
+**MITRE ATT&CK** es un marco que describe tácticas y técnicas utilizadas por los atacantes.
+**Windows Event Viewer** es una herramienta fundamental para analizar eventos y detectar anomalías.
+los firewalls de próxima generación (NGFW) ofrecen funciones avanzadas como inspección profunda de paquetes.
+el uso de listas blancas permite solo ejecutar aplicaciones autorizadas en sistemas críticos.
+la **segmentación de red** reduce el movimiento lateral de un atacante dentro de la infraestructura.
+el protocolo **NetFlow** proporciona visibilidad sobre el tráfico de red para detectar anomalías.
+**UEBA (User and Entity Behavior Analytics)** detecta actividades inusuales de usuarios y dispositivos.
+los parches y actualizaciones reducen la exposición a ataques de día cero.
+**Phishing Simulation** educa a los empleados sobre cómo identificar correos electrónicos maliciosos.
+un equipo **SOC (Security Operations Center)** monitorea y responde a incidentes de seguridad.
+los logs de DNS pueden revelar intentos de exfiltración o conexiones a dominios maliciosos.
+**Threat Hunting** implica la búsqueda proactiva de amenazas ocultas en la infraestructura.
+la implementación de políticas de contraseñas fuertes y rotación periódica mejora la seguridad.
+**HIDS (Host Intrusion Detection Systems)** protege endpoints al detectar comportamientos anómalos.
+**OSSEC** es una herramienta de código abierto utilizada para monitorear logs y detectar intrusiones.
+**Auditd** permite auditar sistemas Linux para registrar eventos de seguridad.
+los **Golden Tickets** en Kerberos pueden detectarse con una correcta auditoría de tickets TGT.
+las soluciones **SOAR (Security Orchestration, Automation and Response)** automatizan respuestas a incidentes.
+el protocolo **SMBv1** debe ser deshabilitado, ya que es vulnerable a ataques como EternalBlue.
+las herramientas como **Sysmon** permiten registrar eventos críticos en sistemas Windows.
+un **baseline** de comportamiento normal facilita la identificación de anomalías.
+el **hardening de BIOS/UEFI** protege los sistemas contra ataques de firmware.
+**Fail2Ban** protege servidores bloqueando direcciones IP con demasiados intentos de acceso fallidos.
+los **playbooks de respuesta** estandarizan las acciones a seguir ante incidentes de seguridad.
+un **honeynet** es una red de honeypots diseñada para analizar y atrapar atacantes.
+**file integrity monitoring** ayuda a detectar ransomware al monitorear cambios masivos en archivos.
+la implementación de **VPN** protege las comunicaciones de red contra escuchas no autorizadas.
+los logs de **DHCP** pueden ayudar a identificar dispositivos no autorizados en la red.
+**SIEM** permite correlacionar eventos de múltiples fuentes para detectar incidentes complejos.
+**Audit Policies** en Active Directory permiten registrar actividades críticas como inicios de sesión fallidos.
+**Packet Captures (PCAP)** son fundamentales para el análisis forense de tráfico de red.
+el cifrado de discos protege la información si un dispositivo físico es robado o extraviado.
+la **monitorización de puertos USB** ayuda a prevenir la exfiltración de datos en estaciones de trabajo.
+**IPSec** proporciona una capa de seguridad adicional para comunicaciones a nivel de red.
+el **registro de logs centralizado** facilita la detección de eventos sospechosos en tiempo real.
+la implementación de **Honeypots en AWS** puede ayudar a detectar abusos en la nube.
+un **firewall de aplicaciones web (WAF)** protege contra ataques como SQLi y XSS.
+las contraseñas predeterminadas en dispositivos IoT son un riesgo crítico para la seguridad.
+los **logs de PowerShell** permiten auditar comandos ejecutados en sistemas Windows.
+la **monitorización de amenazas en tiempo real** es esencial para proteger infraestructuras críticas.
+las **políticas de acceso temporal** limitan los privilegios solo cuando se necesitan.
+la implementación de herramientas **FIM** (Monitoreo de Integridad de Archivos) detecta cambios no autorizados.
+una correcta **política de parches** reduce riesgos asociados con vulnerabilidades conocidas.
+Las conexiones DNS encubiertas son usadas frecuentemente para exfiltrar datos sin levantar sospechas.
+Túneles ICMP permiten enviar información a través de paquetes ping disfrazados.
+SMTP puede ser aprovechado para filtrar datos incrustándolos en correos electrónicos.
+Los atacantes utilizan servidores FTP mal configurados como puntos de salida para exfiltración.
+Las herramientas de compresión como WinRAR facilitan la ocultación de datos al empaquetarlos con contraseñas.
+HTTP y HTTPS son métodos comunes para exfiltrar datos a servidores externos.
+Técnicas de esteganografía permiten incrustar datos en imágenes y archivos multimedia.
+Los servicios en la nube como Google Drive y Dropbox pueden ser utilizados para filtrar datos.
+Exfiltrar datos a través de servicios públicos como Pastebin es una táctica frecuente.
+La extracción de datos usando canales encubiertos por Bluetooth presenta riesgos en dispositivos cercanos.
+Los ataques de exfiltración por correo electrónico mediante archivos adjuntos son fáciles de automatizar.
+El uso de malware para enviar datos cifrados a servidores de comando y control (C2) es habitual.
+Los atacantes pueden aprovechar protocolos SMB para mover datos fuera de una red comprometida.
+La ocultación de datos dentro de tráfico VoIP dificulta su detección por soluciones de seguridad.
+Los datos pueden exfiltrarse en fragmentos pequeños a través de peticiones HTTP repetidas.
+Los atacantes filtran información insertándola dentro de metadatos de archivos comunes.
+La exfiltración usando DNS exfiltration tools como "dnscat2" es difícil de detectar.
+Los keyloggers almacenan datos sensibles localmente y luego los envían a servidores remotos.
+Datos cifrados con AES-256 pueden ser exfiltrados sin ser identificados por soluciones DLP.
+El tráfico saliente no monitorizado permite a los atacantes filtrar información sin restricciones.
+Túneles SSH reversos pueden ocultar el movimiento de datos fuera de una red comprometida.
+El uso de cifrado en ataques de exfiltración evita que los datos sean analizados durante su salida.
+Herramientas como "PowerShell Empire" automatizan la exfiltración de información.
+Los atacantes usan scripts bash con "curl" o "wget" para enviar datos a endpoints controlados.
+Exfiltración a través de canales USB físicos permite robar datos en grandes volúmenes.
+Las impresoras vulnerables pueden ser utilizadas para enviar datos filtrados al exterior.
+Los archivos logs pueden ser manipulados para insertar información exfiltrada.
+El tráfico DNS mediante subdominios incrementales puede filtrar datos de forma progresiva.
+El uso de protocolos antiguos, como Telnet, permite mover datos fuera de redes protegidas.
+Los atacantes envían fragmentos de datos en comentarios de páginas web públicas.
+La manipulación de paquetes ICMP usando herramientas como **Ptunnel** permite exfiltración encubierta.
+La exfiltración vía servicios TOR garantiza anonimato a los atacantes durante el proceso.
+Las herramientas como **Cobalt Strike** ofrecen módulos dedicados para la exfiltración de datos.
+El uso de canales encubiertos en medios sociales, como Twitter o Telegram, permite enviar datos sigilosamente.
+Los protocolos UPnP mal configurados exponen dispositivos para ser usados en exfiltración.
+La extracción de datos vía RFID en entornos físicos vulnerables es un riesgo real.
+El movimiento lateral suele preceder a la exfiltración de información crítica.
+El almacenamiento temporal de datos en cachés de aplicaciones web facilita la extracción sin detección.
+Los archivos PDFs pueden contener datos ocultos exfiltrados mediante scripts embebidos.
+La manipulación de tráfico ICMP evita el monitoreo convencional de soluciones NIDS.
+Los puertos USB no restringidos son una vía rápida para la extracción de datos offline.
+Túneles de datos usando servicios legítimos como Slack son difíciles de identificar.
+Herramientas como **Exfiltrate** automatizan la salida de datos usando múltiples protocolos.
+Los métodos de exfiltración vía DNS son efectivos para redes donde HTTPS está bloqueado.
+Los firewalls mal configurados permiten a los atacantes enviar información fuera de la red.
+El uso de ofuscación en archivos ZIP ayuda a los atacantes a evadir soluciones DLP.
+Los atacantes a menudo fragmentan los datos en piezas y las envían por múltiples canales.
+El tráfico DNS codificado en base64 permite a los atacantes filtrar información sin levantar alertas.
+Los **túneles HTTPS** a través de proxies ayudan a ocultar la exfiltración de datos.
+La exfiltración basada en servicios de almacenamiento AWS S3 es frecuente en ataques avanzados.
+Exfiltrar datos vía WebSockets permite transmitir grandes volúmenes de información en tiempo real.
+Las técnicas de "smuggling" permiten usar cabeceras HTTP para transportar datos encubiertos.
+Los scripts de PowerShell ofuscados pueden exfiltrar datos sin ser detectados.
+El protocolo **TFTP** es usado para exfiltrar datos debido a su simplicidad y falta de autenticación.
+Cadenas de herramientas como Metasploit permiten combinar explotación y exfiltración sin esfuerzo.
+La exfiltración mediante **cookies HTTP** aprovecha la transmisión normal de datos del navegador.
+Insertar información en archivos de fuentes como **TTF** es una técnica de exfiltración avanzada.
+Protocolos P2P permiten enviar datos directamente entre dispositivos sin necesidad de intermediarios.
+El uso de **binarios firmados por terceros** facilita la exfiltración encubierta en redes protegidas.
+Los discos cifrados extraíbles permiten exfiltrar datos físicamente sin ser detectados.
+Las técnicas de cifrado XOR permiten ocultar información y evitar soluciones de prevención de fuga.
+Exfiltrar datos mediante canales **DNS-TXT** permite enviar información como texto plano disfrazado.
+La exfiltración usando **ICMP payloads** es difícil de identificar en tráfico de red estándar.
+Los atacantes utilizan redes WiFi abiertas para extraer datos sin dejar rastros locales.
+El uso de tráfico FTP no cifrado permite exfiltrar grandes volúmenes de información.
+Las esteganografías modernas ocultan información dentro de videos y GIFs.
+Las herramientas como **gobuster** pueden identificar endpoints para exfiltración.
+Un atacante puede usar **cron jobs** para automatizar la salida periódica de datos.
+Exfiltrar datos mediante torrents permite evitar filtros tradicionales de red.
+La transmisión de datos con cabeceras HTTP personalizadas facilita canales encubiertos.
+El tráfico cifrado SSL/TLS es comúnmente usado para exfiltración porque evita inspecciones.
+Los **servicios de nube pública** facilitan la extracción de datos sin detección.
+Los atacantes usan cadenas codificadas en base64 para exfiltrar claves sensibles.
+Herramientas como **rsync** permiten enviar archivos masivos fuera de redes protegidas.
+Los scripts maliciosos en formularios web son usados para filtrar datos mediante POST.
+Los protocolos **WebDAV** pueden ser abusados para extraer información desde servidores vulnerables.
+El tráfico MQTT, usado en IoT, puede ser un canal de exfiltración para dispositivos comprometidos.
+La inyección de datos en consultas SQL puede extraer información directamente de bases de datos.
+Exfiltrar archivos pequeños usando paquetes **ARP spoofed** es otra táctica evasiva.
+Los **DNS tunnels** permiten dividir archivos grandes en pequeños paquetes de datos.
+Las aplicaciones proxy inverso pueden ser configuradas para enviar datos sin alertar firewalls.
+Encripta tus cargas útiles usando AES para evadir firmas estáticas.
+Ofusca scripts en PowerShell utilizando codificación Base64.
+Usa nombres legítimos de procesos como explorer.exe para masquerading.
+Ejecuta tu malware en memoria utilizando técnicas fileless para evitar el disco.
+Abusa de la API de Windows 'CreateThread' para ejecutar código directamente.
+Compila tus binarios con opciones personalizadas para evitar detecciones.
+Aplica packers personalizados para ocultar el contenido de tus cargas.
+Abusa de firmas digitales vencidas o robadas para darle legitimidad a tu ejecutable.
+Carga DLLs maliciosas utilizando técnicas de DLL Side-Loading.
+Usa técnicas de Process Injection como Process Hollowing para esconder procesos.
+Abusa del AMSI bypass en PowerShell con scripts ofuscados y token replacement.
+Implementa un "sandbox evasion" detectando condiciones como entornos virtuales.
+Utiliza polyglots combinando formatos de archivos válidos (PDF, ZIP) para confundir antivirus.
+Cambia las secciones PE en binarios ejecutables para evitar firmas detectadas.
+Usa mimikatz directamente en memoria para evitar detección de archivos.
+Ofusca cadenas sensibles dentro de tu payload utilizando XOR o RC4.
+Abusa de procesos legítimos usando LOLBins como 'certutil', 'mshta' o 'rundll32'.
+Evita análisis estático fragmentando tu payload en múltiples secciones PE.
+Aplica técnicas de RunPE para reemplazar procesos en ejecución.
+Crea backdoors en scripts legítimos que parecen inofensivos.
+Implementa técnicas de Reflective DLL Injection para evitar el disco.
+Engaña antivirus modificando metadatos y timestamps del binario.
+Simula comportamiento inofensivo para retrasar la detección en entornos sandbox.
+Crea payloads dinámicos usando Metasploit y encodeadores como Shikata Ga Nai.
+Desactiva AMSI utilizando registros en PowerShell como 'Bypass' antes de ejecución.
+Realiza "parent process spoofing" para asociar tu proceso a uno legítimo.
+Cambia permisos NTFS en archivos para dificultar la lectura y análisis.
+Utiliza tareas programadas (schtasks) como técnica de persistencia indetectable.
+Ofusca scripts con herramientas como Invoke-Obfuscation.
+Modifica secciones de cabecera del PE con herramientas como PE-bear.
+Aplica técnicas de code cave para insertar tu código en archivos ejecutables.
+Crea payloads con entrega por etapas (staged payloads) para reducir la huella.
+Detecta herramientas de análisis como ProcMon o Wireshark y detén la ejecución.
+Implementa técnicas de Thread Local Storage para ocultar tu código.
+Abusa de binarios firmados (trusted binaries) para ejecutar cargas.
+Utiliza `Invoke-ReflectivePEInjection` para ejecutar PE en memoria.
+Aprovecha vulnerabilidades como DLL hijacking en software vulnerable.
+Crea payloads nativos compatibles con bypass de EDRs modernos.
+Utiliza PowerShell en segundo plano con 'hidden' y bypass de ejecución.
+Construye payloads .NET en C# para ofuscar y ejecutar código de forma dinámica.
+Abusa de permisos heredados en servicios para reemplazar ejecutables.
+Evita la firma digital en análisis estático generando código aleatorio.
+Implementa técnicas de syscall directas para evitar interceptación por hooks.
+Cifra secciones de tu binario ejecutable y descifra solo al ejecutarlo.
+Genera payloads usando Nim o Go para reducir la detección por firmas.
+Aplica 'image load hijacking' para redirigir cargas a tu DLL maliciosa.
+Evita análisis de memoria haciendo 'Unhooking' de API interceptadas.
+Usa herramientas como Donut para convertir scripts en archivos binarios ejecutables.
+Abusa de servicios Windows legítimos como BITS para descargar payloads.
+Crea payloads polimórficos con firmas cambiantes en tiempo de ejecución.
+Reemplaza procesos legítimos en memoria usando técnicas de hollowing.
+Implementa protección anti-debugging detectando 'breakpoints' en el código.
+Genera payloads con Shellter para añadirlos en ejecutables legítimos.
+Usa 'NTFS Alternate Data Streams' para ocultar tu carga en archivos inocuos.
+Configura payloads que solo se ejecuten si detectan procesos específicos.
+Modifica registros del sistema como RunOnce para persistencia oculta.
+Compila tus scripts en archivos ejecutables para dificultar la lectura.
+Introduce delays aleatorios en tu payload para evadir sandboxes.
+Detecta la presencia de antivirus con procesos y módulos cargados.
+Aplica 'Heap Spray' para esconder cargas en la memoria del proceso.
+Ofusca scripts batch reemplazando comandos con caracteres alternativos.
+Usa señales en APIs para saltar puntos de control en análisis dinámico.
+Integra tu código en ejecutables válidos usando técnicas de binding.
+Abusa de herramientas como msbuild.exe para ejecutar tu código malicioso.
+Oculta procesos con 'NtCreateThreadEx' para iniciar hilos invisibles.
+Enmascara servicios maliciosos como tareas de mantenimiento legítimas.
+Implementa cifrado de payloads usando técnicas de multi-etapa.
+Utiliza macros en documentos de Office para cargar tu código.
+Genera archivos maliciosos en archivos comprimidos protegidos por contraseña.
+Crea payloads dinámicos que descargan módulos solo en tiempo de ejecución.
+Utiliza loaders como HCrypt o FUD rat tools para evadir detecciones.
+Aplica técnicas de Process Doppelgänging para inyectar cargas en procesos.
+Realiza bypass de UAC usando auto elevación en Windows.
+Esconde tu código en recursos alternativos de binarios (PE resources).
+Utiliza threads ocultos para ejecutar cargas sin levantar sospechas.
+Implementa técnicas de anti-VM detectando software como VirtualBox o VMware.
+Construye payloads compatibles con aplicaciones sandbox evasive.
+Combina múltiples formatos (PDF, ZIP, EXE) en un mismo archivo polimórfico.
+Usa herramientas como Veil-Evasion o FUD frameworks modernos.
+Abusa de SysWhispers para realizar syscalls nativos.
+Limpia tu payload de indicadores de compilador para evitar heurísticas.
+Modifica PE headers manualmente para romper herramientas de análisis.
+Implementa evasión mediante ejecución de cargas usando registros WMI.
+Realiza recompilaciones periódicas para cambiar la firma de tus payloads.
+Cifra y descifra la carga útil en memoria con técnicas XOR dinámico.
+Ofusca código en VBScript y lánzalo desde MSHTA.exe.
+Aplica inyección directa en threads suspendidos.
+Genera cargas polimórficas para cambiar su huella en tiempo de ejecución.
+Engaña herramientas de seguridad detectando sus hooks en API.
+Abusa del servicio WinRM para ejecutar scripts remotamente.
+Genera 'reverse shell' con certificados auto-firmados.
+Aplica compresión con UPX pero ofusca la firma del packer.
+Implementa payloads usando signed driver abuse.
+Realiza 'Inline Hooking Removal' para evitar detecciones en memoria.
+Cifra la comunicación entre tu payload y C2 usando HTTPS/TLS.
+Bash: Usa 'set -eux' para depurar scripts mostrando los comandos y deteniéndose en errores.
+PowerShell: Usa 'Set-StrictMode -Version Latest' para forzar buenas prácticas y evitar errores silenciosos.
+Bash: La función 'trap' permite ejecutar comandos cuando el script recibe señales como SIGINT.
+PowerShell: Usa 'try { } catch { }' para manejar excepciones específicas y escribir un error controlado.
+Bash: 'awk' puede sumar columnas enteras de un archivo: 'awk '{sum+=\$1} END {print sum}' archivo.txt'.
+PowerShell: Calcula el tamaño total de archivos con 'Get-ChildItem -Recurse | Measure-Object -Property Length -Sum'.
+Bash: Combina comandos con '&&' para ejecutar el segundo solo si el primero tiene éxito.
+PowerShell: Ejecuta comandos condicionalmente con 'if' y 'else' dentro de scripts.
+Bash: Redirige tanto salida estándar como errores a un archivo con 'comando > archivo.log 2>&1'.
+PowerShell: Redirige errores a la salida estándar usando '2>&1'.
+Bash: Usa 'grep' con 'color' para destacar coincidencias en resultados: 'grep --color=always "texto" archivo.log'.
+PowerShell: Busca texto con colores en archivos usando 'Select-String -Pattern "texto"'.
+Bash: Usa 'sed' para reemplazar texto en archivos: 'sed -i 's/error/solucionado/g' archivo.txt'.
+PowerShell: Reemplaza texto en archivos usando '(Get-Content archivo.txt) -replace "error", "solucionado"'.
+Bash: Ejecuta múltiples procesos en paralelo con 'xargs -P'.
+PowerShell: Ejecuta tareas en paralelo con 'Start-Job' y espera con 'Wait-Job'.
+Bash: Usa variables temporales con nombres dinámicos: 'var="archivo_\$(date +%F).log"'.
+PowerShell: Crea nombres dinámicos con "\`" como en '"archivo_$(Get-Date -Format yyyy-MM-dd).log"'.
+Bash: Realiza bucles con 'while read' para procesar archivos línea a línea.
+PowerShell: Procesa líneas de un archivo con 'Get-Content archivo.txt | ForEach-Object'.
+Bash: Genera copias incrementales usando 'rsync -avz --progress'.
+PowerShell: Copia archivos manteniendo propiedades con 'Copy-Item -Recurse -Force'.
+Bash: Ordena procesos por consumo de CPU usando 'ps aux --sort=-%cpu | head'.
+PowerShell: Ordena procesos con 'Get-Process | Sort-Object CPU -Descending'.
+Bash: Usa 'cron' para tareas automatizadas: '0 5 * * * /ruta/script.sh'.
+PowerShell: Programa tareas con 'Register-ScheduledTask'.
+Bash: Configura alias temporales con 'alias ll="ls -la"'.
+PowerShell: Crea alias permanentes con 'New-Alias'.
+Bash: Limpia archivos temporales con 'find /tmp -name "*.tmp" -delete'.
+PowerShell: Elimina archivos temporales con 'Remove-Item -Path "C:\Temp\*.tmp"'.
+Bash: Verifica conexión a Internet con 'ping -c 4 google.com'.
+PowerShell: Usa 'Test-Connection -ComputerName google.com'.
+Bash: Genera archivos de tamaño específico usando 'dd': 'dd if=/dev/zero of=archivo.img bs=1M count=10'.
+PowerShell: Crea archivos vacíos con 'fsutil file createnew archivo.img 10485760'.
+Bash: Encuentra archivos modificados recientemente con 'find /ruta -mtime -1'.
+PowerShell: Busca archivos recientes con 'Get-ChildItem -Recurse | Where-Object { \$_.LastWriteTime -ge (Get-Date).AddDays(-1) }'.
+Bash: Convierte texto en mayúsculas usando 'tr': 'echo "hola" | tr "[:lower:]" "[:upper:]"'.
+PowerShell: Convierte texto en mayúsculas con '.ToUpper()'.
+Bash: Encuentra directorios vacíos con 'find /ruta -type d -empty'.
+PowerShell: Encuentra carpetas vacías con 'Get-ChildItem -Recurse | Where-Object { \$_.PSIsContainer -and (Get-ChildItem -Path \$_.FullName).Count -eq 0 }'.
+Bash: Usa 'tee' para mostrar y guardar la salida de un comando simultáneamente.
+PowerShell: Guarda y muestra salida usando 'Tee-Object'.
+Bash: Extrae la primera columna de un archivo con 'cut -d" " -f1'.
+PowerShell: Extrae columnas con 'Select-Object -ExpandProperty'.
+Bash: Escanea puertos con 'nc' (netcat): 'nc -zv 192.168.1.1 1-65535'.
+PowerShell: Escanea puertos con 'Test-NetConnection'.
+Bash: Genera checksums de archivos usando 'sha256sum archivo.txt'.
+PowerShell: Calcula hash de archivos con 'Get-FileHash archivo.txt'.
+Bash: Usa 'curl' para descargar archivos: 'curl -O http://example.com/archivo.zip'.
+PowerShell: Usa 'Invoke-WebRequest -OutFile archivo.zip'.
+Bash: Configura permisos rápidamente con 'chmod 755 archivo.sh'.
+PowerShell: Cambia permisos en Windows con 'icacls archivo.txt /grant usuario:R'.
+Bash: Borra el historial temporalmente con 'unset HISTFILE'.
+PowerShell: Limpia el historial con 'Clear-History'.
+Bash: Encuentra texto dentro de múltiples archivos con 'grep -rn "texto" /ruta/'.
+PowerShell: Busca texto en archivos con 'Select-String -Path "C:\Logs\*.txt" -Pattern "texto"'.
+Bash: Usa 'nohup' para ejecutar procesos en segundo plano y evitar interrupciones.
+PowerShell: Usa 'Start-Process -NoNewWindow' para mantener procesos activos.
+Bash: Revisa las conexiones activas con 'netstat -tunlp'.
+PowerShell: Visualiza conexiones usando 'Get-NetTCPConnection'.
+Bash: Crea un árbol de directorios con 'tree /ruta'.
+PowerShell: Usa 'Get-ChildItem -Recurse | Format-Table' para ver una estructura similar.
+Bash: Controla el uso de memoria con 'free -h'.
+PowerShell: Monitorea la memoria con 'Get-Counter -Counter "\Memory\% Committed Bytes In Use"'.
+Bash: Fuerza la sincronización de discos con 'sync'.
+PowerShell: Ejecuta 'Flush-Volume' para sincronizar almacenamiento en Windows.
+Bash: Monta imágenes ISO con 'mount -o loop archivo.iso /mnt'.
+PowerShell: Monta archivos ISO con 'Mount-DiskImage'.
+Nmap: Escáner de red para descubrir puertos abiertos, servicios y vulnerabilidades.
+Wireshark: Analizador de tráfico de red en tiempo real para análisis detallado.
+Metasploit: Framework para desarrollo y ejecución de exploits, ideal para Red Team.
+Burp Suite: Suite avanzada para pruebas de seguridad en aplicaciones web.
+Aircrack-ng: Suite de herramientas para auditoría de redes WiFi.
+Hydra: Herramienta rápida para fuerza bruta de contraseñas en múltiples servicios.
+John the Ripper: Crackeador de contraseñas versátil y eficiente.
+Hashcat: Herramienta para descifrar contraseñas usando GPU y CPU.
+Nikto: Escáner de vulnerabilidades en servidores web.
+Gobuster: Fuerza bruta de directorios y subdominios en aplicaciones web.
+SQLmap: Herramienta automatizada para identificar y explotar inyecciones SQL.
+Responder: Herramienta de ataque para captura y manipulación de credenciales en red.
+Bettercap: Herramienta avanzada para realizar ataques MITM.
+Ettercap: Suite de herramientas para ataques MITM y sniffing.
+Mimikatz: Recuperación de credenciales de sistemas Windows.
+BloodHound: Análisis de relaciones en Active Directory para detectar caminos de ataque.
+CrackMapExec: Herramienta para auditoría y abuso de redes SMB/Active Directory.
+Impacket: Herramientas para manipulación de protocolos de red en Windows.
+Powersploit: Módulos de PowerShell para pentesting y evasión de defensas.
+Veil: Generador de payloads que evaden antivirus.
+Cobalt Strike: Framework comercial para simulaciones de Red Team avanzadas.
+Empire: Framework basado en PowerShell para explotación y persistencia.
+Gophish: Herramienta de phishing para pruebas de concienciación en seguridad.
+Parrot OS: Sistema operativo alternativo orientado a pruebas de seguridad.
+Snort: IDS/IPS de código abierto para análisis de tráfico en tiempo real.
+Suricata: Alternativa avanzada a Snort con mejor rendimiento.
+OSSEC: Sistema de detección de intrusiones basado en host (HIDS).
+Zeek (Bro): Framework avanzado para análisis de tráfico de red.
+Splunk: Plataforma para análisis y correlación de registros y eventos.
+ELK Stack: Suite (Elasticsearch, Logstash, Kibana) para análisis de logs.
+Maltego: Herramienta de recolección y correlación de inteligencia.
+Recon-ng: Framework modular para recopilación de información en pentesting.
+SpiderFoot: Herramienta automatizada de OSINT y descubrimiento de amenazas.
+Shodan: Motor de búsqueda para encontrar dispositivos expuestos en Internet.
+Nessus: Escáner de vulnerabilidades avanzado.
+OpenVAS: Alternativa de código abierto para escaneo de vulnerabilidades.
+Acunetix: Escáner comercial para aplicaciones web.
+Nexpose: Escáner de vulnerabilidades de Rapid7.
+Palo Alto Cortex XDR: Plataforma de detección y respuesta ante amenazas.
+CrowdStrike Falcon: Herramienta avanzada de ciberseguridad y respuesta a incidentes.
+ESET Inspect: Plataforma para análisis forense y detección avanzada.
+Autopsy: Herramienta de análisis forense digital para recuperación de datos.
+FTK Imager: Herramienta de creación y análisis de imágenes forenses.
+Volatility: Framework para análisis de memoria RAM.
+Cuckoo Sandbox: Herramienta de análisis dinámico de malware.
+Any.Run: Plataforma interactiva para análisis en tiempo real de malware.
+YARA: Herramienta de identificación y clasificación de malware.
+VirusTotal: Análisis de archivos y URLs con múltiples motores antivirus.
+Radare2: Framework de ingeniería inversa y análisis binario.
+Ghidra: Herramienta gratuita de ingeniería inversa desarrollada por la NSA.
+IDA Pro: Framework de pago para ingeniería inversa avanzada.
+CyberChef: Herramienta todo-en-uno para operaciones de cifrado y manipulación de datos.
+Rekall: Herramienta para análisis de memoria forense.
+Procmon: Monitor de procesos en tiempo real para Windows.
+Sysmon: Herramienta para registrar actividades de sistema críticas.
+MITRE ATT&CK Navigator: Plataforma interactiva para modelar técnicas de ataque.
+Sn1per: Herramienta automatizada para reconocimiento y pentesting.
+TheHarvester: Recolector de correos, nombres y dominios a partir de OSINT.
+Amass: Herramienta de enumeración y descubrimiento de subdominios.
+Masscan: Escáner de puertos extremadamente rápido.
+Zmap: Alternativa a Masscan para escaneo de red.
+Dirb: Herramienta para escanear directorios ocultos en aplicaciones web.
+Dirbuster: Alternativa avanzada para descubrimiento de directorios.
+WPScan: Herramienta de pentesting específica para WordPress.
+XSStrike: Herramienta avanzada para detección y explotación de XSS.
+Commix: Herramienta de explotación de inyecciones de comandos en aplicaciones web.
+Pupy: Framework de control remoto multiplataforma.
+TinyShell: Shell remota simple y ligera.
+Shellter: Framework para inyectar shells en ejecutables.
+NanoCore: RAT usado para administración remota maliciosa.
+BlackArch: Distribución Linux con más de 2000 herramientas de hacking.
+LinEnum: Script para enumeración de privilegios y configuraciones en Linux.
+WinPEAS: Script para identificación de privilegios en sistemas Windows.
+PsExec: Herramienta para ejecución remota de comandos en sistemas Windows.
+Netcat: Herramienta básica para redes, útil para túneles y conexiones.
+Socat: Alternativa avanzada a Netcat para manipulación de redes.
+Chisel: Herramienta para crear túneles y proxy inverso.
+FRP: Fast Reverse Proxy para conexiones remotas seguras.
+Rubeus: Herramienta para ataques Kerberos.
+Kerbrute: Fuerza bruta y enumeración de cuentas en Kerberos.
+Certipy: Herramienta para abusar de certificados en Active Directory.
+LDAPDomainDump: Enumeración de información de dominio LDAP.
+ADExplorer: Herramienta GUI de exploración de Active Directory.
+Mobsf: Framework para análisis de seguridad en aplicaciones móviles.
+Frida: Herramienta para instrumentación de aplicaciones en tiempo real.
+Objection: Framework de análisis dinámico para apps móviles con Frida.
+Drozer: Framework para pentesting en Android.
+APKTool: Descompilador y recompilador de aplicaciones APK.
+Dex2Jar: Conversión de archivos Dalvik a formato JAR.
+Burp Collaborator: Herramienta integrada de Burp para detectar interacciones con servidores.
+SecLists: Conjunto de listas de diccionarios y wordlists útiles.
+Password Cracking Lists: Wordlists específicas para cracking de contraseñas.
+Fluxion: Herramienta de ataque de autenticación falsa para redes WiFi.
+Eaphammer: Framework para ataques contra redes WPA/WPA2 Enterprise.
+Reaver: Herramienta de fuerza bruta contra WPS en redes inalámbricas.
+Cowpatty: Crackeador de hashes WPA/WPA2.
+Pyrit: Herramienta de cracking de contraseñas WPA con soporte GPU.
+dnSpy: Depurador y descompilador .NET avanzado.
+SQLNinja: Herramienta para explotación avanzada de inyecciones SQL.
+HTTrack: Clonador de sitios web para análisis offline.
+Nikto: Escáner simple de vulnerabilidades en servidores web.
+TestSSL.sh: Script avanzado para verificar la configuración SSL/TLS.
+Wfuzz: Herramienta para fuerza bruta y fuzzing de aplicaciones web.
+El conocimiento sin curiosidad es como un exploit sin objetivo: inútil.
+Python: El lenguaje suizo del hacking; scripting, automatización y análisis de datos.
+C: Perfecto para explotar vulnerabilidades de bajo nivel y desarrollar exploits.
+Go: Rendimiento y concurrencia ideales para herramientas de red modernas.
+Rust: Seguridad en memoria para crear herramientas ofensivas y defensivas sin errores críticos.
+JavaScript: El rey del ataque del lado del cliente; ideal para XSS y payloads web.
+PowerShell: Dominio total en entornos Windows; automatización, evasión y control.
+Bash: El lenguaje nativo de los sistemas Unix, automatización y scripting avanzado.
+Perl: Herramienta de texto y regex, útil para scripts rápidos y manipulación de datos.
+PHP: El lenguaje oculto detrás de servidores inseguros; manipulación de backend web.
+Lua: Ideal para scripting en aplicaciones embebidas y entornos controlados.
+Ruby: El corazón de Metasploit, elegante para scripting ofensivo.
+C++: Rendimiento y control total para malware complejo y herramientas personalizadas.
+Assembly: El lenguaje del hardware; análisis de malware y explotación avanzada.
+Kotlin: Desarrollo rápido y seguro para herramientas Android.
+Swift: Desarrollo ofensivo de aplicaciones seguras en iOS.
+Dart: Un puente moderno entre frontend y backend con Flutter.
+SQL: Dominio de bases de datos; inyección SQL y extracción de datos.
+Shellcode: Comunicación directa con el sistema; payloads ligeros y evasivos.
+VBScript: Arma clásica en entornos Windows antiguos para ejecución silenciosa.
+Haskell: Lenguaje funcional; útil para herramientas matemáticas y criptografía avanzada.
+Scala: Herramienta robusta para procesamiento de datos y análisis de grandes volúmenes.
+R: Especializado en estadísticas y análisis de datos para descifrar patrones.
+MATLAB: Cálculos y simulaciones científicas, ideal para análisis en seguridad.
