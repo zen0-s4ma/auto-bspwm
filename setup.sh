@@ -263,19 +263,4 @@ else
 
 	echo -e "\n${greenColour}[+] Environment configured :D\n${endColour}"
 	sleep 1.5
-
-	while true; do
-		echo -en "\n${yellowColour}[?] It's necessary to restart the system. Do you want to restart the system now? ([y]/n) ${endColour}"
-		read -r
-		REPLY=${REPLY:-"y"}
-		if [[ $REPLY =~ ^[Yy]$ ]]; then
-			echo -e "\n\n${greenColour}[+] Restarting the system...\n${endColor}"
-			sleep 1
-			sudo reboot
-		elif [[ $REPLY =~ ^[Nn]$ ]]; then
-			exit 0
-		else
-			echo -e "\n${redColour}[!] Invalid response, please try again\n${endColour}"
-		fi
-	done
 fi
