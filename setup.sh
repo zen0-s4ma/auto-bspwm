@@ -165,31 +165,7 @@ else
 
 	cd ..
 
-	echo -e "\n${purpleColour}[*] Installing Oh My Zsh and Powerlevel10k for user $user...\n${endColour}"
-	sleep 2
-	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-	git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
-	if [ $? != 0 ] && [ $? != 130 ]; then
-		echo -e "\n${redColour}[-] Failed to install Oh My Zsh and Powerlevel10k for user $user!\n${endColour}"
-		exit 1
-	else
-		echo -e "\n${greenColour}[+] Done\n${endColour}"
-		sleep 1.5
-	fi
-
-	echo -e "\n${purpleColour}[*] Installing Oh My Zsh and Powerlevel10k for user root...\n${endColour}"
-	sleep 2
-	sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-	sudo git clone --depth=1 https://github.com/romkatv/powerlevel10k.git /root/.oh-my-zsh/custom/themes/powerlevel10k
-	if [ $? != 0 ] && [ $? != 130 ]; then
-		echo -e "\n${redColour}[-] Failed to install Oh My Zsh and Powerlevel10k for user root!\n${endColour}"
-		exit 1
-	else
-		echo -e "\n${greenColour}[+] Done\n${endColour}"
-		sleep 1.5
-	fi
-
-	echo -e "\n${blueColour}[*] Starting configuration of fonts, wallpaper, configuration files, .zshrc, .p10k.zsh, and scripts...\n${endColour}"
+	echo -e "\n${blueColour}[*] Starting configuration of fonts, wallpaper, configuration files, and scripts...\n${endColour}"
 	sleep 0.5
 
 	echo -e "\n${purpleColour}[*] Configuring fonts...\n${endColour}"
@@ -222,15 +198,6 @@ else
 	echo -e "\n${greenColour}[+] Done\n${endColour}"
 	sleep 1.5
 
-	echo -e "\n${purpleColour}[*] Configuring the .zshrc and .p10k.zsh files...\n${endColour}"
-	sleep 2
-	cp -v $dir/.zshrc ~/.zshrc
-	sudo ln -sfv ~/.zshrc /root/.zshrc
-	#cp -v $dir/.p10k.zsh ~/.p10k.zsh
-	#sudo ln -sfv ~/.p10k.zsh /root/.p10k.zsh
-	echo -e "\n${greenColour}[+] Done\n${endColour}"
-	sleep 1.5
-
 	echo -e "\n${purpleColour}[*] Configuring scripts...\n${endColour}"
 	sleep 2
 	sudo cp -v $dir/scripts/whichSystem.py /usr/local/bin/
@@ -245,8 +212,6 @@ else
 	chmod +x ~/.config/polybar/launch.sh
 	chmod +x ~/.config/polybar/shapes/scripts/*
 	sudo chmod +x /usr/local/bin/whichSystem.py
-	sudo chmod +x /usr/local/share/zsh/site-functions/_bspc
-	sudo chown root:root /usr/local/share/zsh/site-functions/_bspc
 	sudo mkdir -p /root/.config/polybar/shapes/scripts/
 	sudo touch /root/.config/polybar/shapes/scripts/target
 	sudo ln -sfv ~/.config/polybar/shapes/scripts/target /root/.config/polybar/shapes/scripts/target
