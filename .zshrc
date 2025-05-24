@@ -150,21 +150,6 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
-# History configurations
-HISTFILE=~/.zsh_history
-HISTSIZE=1000
-SAVEHIST=2000
-
-# Manual aliases
-alias ll='/usr/bin/lsd -lh --group-dirs=first'
-alias la='/usr/bin/lsd -a --group-dirs=first'
-alias l='/usr/bin/lsd --group-dirs=first'
-alias lla='/usr/bin/lsd -lha --group-dirs=first'
-alias ls='/usr/bin/lsd --group-dirs=first'
-alias cat='/usr/bin/batcat'
-alias catn='/usr/bin/cat'
-alias catnl='/usr/bin/batcat --paging=never'
-
 # Functions
 function mkt(){
 	mkdir {nmap,content,exploits,scripts}
@@ -220,3 +205,18 @@ function rmk(){
 	scrub -p dod $1
 	shred -zun 10 -v $1
 }
+
+# History configurations
+HISTFILE=~/.zsh_history
+HISTSIZE=1000
+SAVEHIST=2000
+
+# Manual aliases
+alias ll='/usr/bin/lsd -lh --group-dirs=first'
+alias la='/usr/bin/lsd -a --group-dirs=first'
+alias l='/usr/bin/lsd --group-dirs=first'
+alias lla='/usr/bin/lsd -lha --group-dirs=first'
+alias ls='/usr/bin/lsd --group-dirs=first'
+alias cat='/usr/bin/batcat'
+alias catn='/usr/bin/cat'
+alias catnl='/usr/bin/batcat --paging=never'
